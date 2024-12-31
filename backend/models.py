@@ -1,5 +1,4 @@
 #database
-
 from app import db
 
 #fields for review object

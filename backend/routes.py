@@ -5,7 +5,6 @@ from flask import request, jsonify
 from models import Review
 
 #get all reviews
-
 @app.route("/api/reviews", methods=["GET"])
 def get_review():
     reviews = Review.query.all() #query.all gets all entries in db
