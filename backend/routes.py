@@ -54,7 +54,7 @@ def create_review():
 
     #delete a review (if i want to add option to delete a review)
 
-@app.route("/api/reviews/<int:id>", methods={"DELETE"}) #passing in id number of review to delete
+@app.route("/api/reviews/<int:id>", methods=["DELETE"]) #passing in id number of review to delete
 
 def delete_reviews(id):
 
