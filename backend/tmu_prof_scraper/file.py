@@ -2,7 +2,7 @@ import json
 import os
 
 # Define the relative path to the JSON file
-file_path = os.path.join(os.path.dirname(__file__), 'professors_data.json')
+file_path = 'C:/Users/manav/React-Flask Project 1/backend/tmu_prof_scraper/professors_data.json'
 
 # Load the JSON data from the file
 with open(file_path, 'r') as file:

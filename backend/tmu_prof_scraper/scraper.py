@@ -16,7 +16,6 @@ logging.basicConfig(level=logging.INFO, filename=log_file_path, filemode="w",
 
 # chrome options for optimization
 chrome_options = Options()
-chrome_options.add_argument("--enable-unsafe-swiftshader")
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--disable-gpu")
 chrome_options.add_argument("--no-sandbox")
@@ -168,8 +167,6 @@ def scrape_professors():
             
             # for every 5 clicks, restart browser
             if iteration_count % 5 == 0: 
-                logging.info("Restarting browser to clear memory.")
-                print("Restarting browser to clear memory.")
                 driver.quit()  # restarting browser periodically to clear memory
                 driver = init_driver()
                 driver.get("https://www.ratemyprofessors.com/search/professors/1471?q=*")
