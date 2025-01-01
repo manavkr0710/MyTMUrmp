@@ -9,8 +9,6 @@ class Review(db.Model):
     code = db.Column(db.String(10), nullable=False)
     description = db.Column(db.Text, nullable=False)
     
-   
-
     #when returning back response, have to return it back to client, return it with json data
     def to_json(self):
         return {

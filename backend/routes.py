@@ -30,9 +30,6 @@ def create_review():
         code = data.get("code")
         description = data.get("description")
 
-        
-
-       
 
         #creating review
         new_review = Review(name=name,
@@ -50,8 +47,6 @@ def create_review():
         db.session.rollback() #if error occurs, roll back to prev session of db
         return jsonify({"error":str(e)}),500
     
-
-
     #delete a review (if i want to add option to delete a review)
 
 @app.route("/api/reviews/<int:id>", methods=["DELETE"]) #passing in id number of review to delete
