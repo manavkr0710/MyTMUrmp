@@ -1,0 +1,5933 @@
+[
+    {
+        "name": "Kaamran Raahemifar",
+        "subjects": [
+            "Electrical Engineering"
+        ]
+    },
+
+    {
+        "name": "Sarah Kriger",
+        "subjects": [
+            "Communication"
+        ]
+    },
+
+    {
+        "name": "Kunquan Lan",
+        "subjects": [
+            "Mathematics"
+        ]
+    },
+
+    {
+        "name": "Marcus V Santos",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Navid Esfahani",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Vojislav Misic",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Claude Gravel",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Alex Ufkes",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Glaucia Melo Dos Santos",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Preeti Raman",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Patricia Wheeler",
+        "subjects": [
+            "New Media Art"
+        ]
+    },
+
+    {
+        "name": "Hudson Moura",
+        "subjects": [
+            "Philosophy"
+        ]
+    },
+
+    {
+        "name": "Elodie Lugez",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Denise Woit",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Gurpaul Kochhar",
+        "subjects": [
+            "Chemistry"
+        ]
+    },
+
+    {
+        "name": "Michelle Delcourt",
+        "subjects": [
+            "Mathematics"
+        ]
+    },
+
+    {
+        "name": "Rick Valenzano",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+
+    {
+        "name": "Alireza Sadeghian",
+        "subjects": [
+            "Computer Science"
+        ]
+    },
+
+    {
+        "name": "Else Grech",
+        "subjects": [
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Pascal Murphy",
+        "subjects": [
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Michael Manjuris",
+        "subjects": [
+            "Management"
+        ]
+    },
+    {
+        "name": "Paul Chafe",
+        "subjects": [
+            "English"
+        ]
+    },
+    {
+        "name": "Shengkun Xie",
+        "subjects": [
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Genevieve Farrell",
+        "subjects": [
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Anne Johnson",
+        "subjects": [
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Alan Kaplan",
+        "subjects": [
+            "Finance"
+        ]
+    },
+    {
+        "name": "Walter Krystia",
+        "subjects": [
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Mike Inglis",
+        "subjects": [
+            "Finance"
+        ]
+    },
+    {
+        "name": "John Turtle",
+        "subjects": [
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Valentina Capurri",
+        "subjects": [
+            "Geography"
+        ]
+    },
+    {
+        "name": "Abednego Aryee",
+        "subjects": [
+            "Geography"
+        ]
+    },
+    {
+        "name": "Jane Monro",
+        "subjects": [
+            "Law"
+        ]
+    },
+    {
+        "name": "Marla Spergel",
+        "subjects": [
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Louis Pike",
+        "subjects": [
+            "Human Resources",
+            "Electrical Engineering",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Jean Golden",
+        "subjects": [
+            "Sociology",
+            "Accounting",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Daniel Alati",
+        "subjects": [
+            "Criminal Justice",
+            "Interdisciplinary Studies",
+            "Ethnic Studies"
+        ]
+    },
+    {
+        "name": "Keith Whelan",
+        "subjects": [
+            "Accounting",
+            "Management",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Monika Korzun",
+        "subjects": [
+            "Sociology",
+            "English",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Vik Singh",
+        "subjects": [
+            "Business",
+            "Quantitative Methods",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Gagan Gupta",
+        "subjects": [
+            "Biology",
+            "Human Resources",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Adam Prokop",
+        "subjects": [
+            "Finance",
+            "Chemistry",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Martin Greig",
+        "subjects": [
+            "History",
+            "Electrical Engineering",
+            "Information Technology",
+            "English",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Anke Allspach",
+        "subjects": [
+            "Criminal Justice",
+            "Accounting",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Alex Ferworn",
+        "subjects": [
+            "Computer Science",
+            "Interdisciplinary Studies",
+            "Ethnic Studies",
+            "Economics",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Monique Tschofen",
+        "subjects": [
+            "English",
+            "Management",
+            "Mathematics",
+            "Philosophy",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Melissa Toffanin",
+        "subjects": [
+            "Finance",
+            "English",
+            "Information Technology",
+            "Philosophy",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Anastase Mastoras",
+        "subjects": [
+            "Computer Science",
+            "Quantitative Methods",
+            "Business Management",
+            "Psychology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "David Day",
+        "subjects": [
+            "Psychology",
+            "Human Resources",
+            "Geography",
+            "Philosophy",
+            "Law"
+        ]
+    },
+    {
+        "name": "Kristin Vickers",
+        "subjects": [
+            "Psychology",
+            "Chemistry",
+            "Accounting",
+            "Information Technology",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Mikhail Soutchanski",
+        "subjects": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Finance",
+            "English",
+            "Information Technology",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Paul Bali",
+        "subjects": [
+            "Philosophy",
+            "Accounting",
+            "Law",
+            "Sociology",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Michael Hunter",
+        "subjects": [
+            "Hospitality",
+            "Interdisciplinary Studies",
+            "Finance",
+            "Economics",
+            "Chemistry",
+            "Criminal Justice",
+            "Ethnic Studies"
+        ]
+    },
+    {
+        "name": "Catherine Jenkins",
+        "subjects": [
+            "Communication",
+            "Management",
+            "Psychology",
+            "Philosophy",
+            "Information Technology",
+            "Accounting",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Lianzeng (edward) Yuan",
+        "subjects": [
+            "Finance",
+            "English",
+            "Geography",
+            "Philosophy",
+            "Psychology",
+            "Sociology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Ruth Panofsky",
+        "subjects": [
+            "English",
+            "Quantitative Methods",
+            "Geography",
+            "Psychology",
+            "Physics",
+            "Business",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Daryl D'Souza",
+        "subjects": [
+            "Marketing",
+            "Human Resources",
+            "Law",
+            "Philosophy",
+            "Information Technology",
+            "Biology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Ilkka Kokkarinen",
+        "subjects": [
+            "Computer Science",
+            "Chemistry",
+            "Marketing",
+            "Information Technology",
+            "Management",
+            "Finance",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "German Pupato",
+        "subjects": [
+            "Economics",
+            "English",
+            "Human Resources",
+            "Finance",
+            "Information Technology",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Michael Jolly",
+        "subjects": [
+            "Economics",
+            "Accounting",
+            "Sociology",
+            "Mathematics",
+            "Law"
+        ]
+    },
+    {
+        "name": "Ali Miri",
+        "subjects": [
+            "Computer Science",
+            "Economics",
+            "Criminal Justice",
+            "Finance",
+            "Ethnic Studies",
+            "Interdisciplinary Studies",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Avner Levin",
+        "subjects": [
+            "Law",
+            "Philosophy",
+            "Accounting",
+            "Psychology",
+            "Mathematics",
+            "Management",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Jordan Tustin",
+        "subjects": [
+            "Public Health",
+            "Philosophy",
+            "Sociology",
+            "Geography",
+            "Information Technology",
+            "English",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Tsasha Awong",
+        "subjects": [
+            "Psychology",
+            "Business",
+            "Geography",
+            "Business Management",
+            "Quantitative Methods",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Richard Grunberg",
+        "subjects": [
+            "TV & Radio",
+            "Philosophy",
+            "Biology",
+            "Law",
+            "Geography",
+            "Human Resources",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Fernando Pardo",
+        "subjects": [
+            "Marketing",
+            "Information Technology",
+            "Finance",
+            "Accounting",
+            "Chemistry",
+            "Management"
+        ]
+    },
+    {
+        "name": "Margaret Yap",
+        "subjects": [
+            "Human Resources",
+            "Information Technology",
+            "Sociology",
+            "History",
+            "English",
+            "Finance",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Hersch Jacobs",
+        "subjects": [
+            "Geography",
+            "Law",
+            "Business Management",
+            "Sociology",
+            "Criminal Justice",
+            "Accounting",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Tina West",
+        "subjects": [
+            "Marketing",
+            "Chemistry",
+            "Information Technology",
+            "Criminal Justice",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Ethnic Studies",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Richard Shaker",
+        "subjects": [
+            "Geography",
+            "Information Technology",
+            "Computer Science",
+            "Accounting",
+            "English",
+            "Philosophy",
+            "Psychology",
+            "Mathematics",
+            "Management"
+        ]
+    },
+    {
+        "name": "Romi Sevel",
+        "subjects": [
+            "Accounting",
+            "Psychology",
+            "Human Resources",
+            "Sociology",
+            "Finance",
+            "Philosophy",
+            "Geography",
+            "Information Technology",
+            "English"
+        ]
+    },
+    {
+        "name": "Richard Cheung",
+        "subjects": [
+            "Electrical Engineering",
+            "Physics",
+            "Psychology",
+            "Business",
+            "Computer Science",
+            "Geography",
+            "Business Management",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "James Norrie",
+        "subjects": [
+            "Information Technology",
+            "Psychology",
+            "Biology",
+            "Philosophy",
+            "Law",
+            "Geography",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Philip Coppack",
+        "subjects": [
+            "Geography",
+            "Management",
+            "Finance",
+            "Psychology",
+            "Information Technology",
+            "Marketing",
+            "Accounting",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Gillian Mothersill",
+        "subjects": [
+            "Graphic Arts",
+            "Sociology",
+            "Information Technology",
+            "History",
+            "English",
+            "Computer Science",
+            "Electrical Engineering",
+            "Human Resources",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Rob Wilson",
+        "subjects": [
+            "Marketing",
+            "Business Management",
+            "Sociology",
+            "Criminal Justice",
+            "Accounting",
+            "Philosophy",
+            "Law",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Mahmoud Jahani",
+        "subjects": [
+            "Information Technology",
+            "Physics",
+            "Computer Science",
+            "Economics",
+            "Hospitality",
+            "Chemistry",
+            "Interdisciplinary Studies",
+            "Criminal Justice",
+            "Finance",
+            "Ethnic Studies"
+        ]
+    },
+    {
+        "name": "Lesley Campbell",
+        "subjects": [
+            "Biology",
+            "Computer Science",
+            "Mathematics",
+            "English",
+            "Philosophy",
+            "Communication",
+            "Information Technology",
+            "Management",
+            "Accounting",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Andre Serero",
+        "subjects": [
+            "Law",
+            "Human Resources",
+            "Physics",
+            "Finance",
+            "Philosophy",
+            "Psychology",
+            "English",
+            "Sociology",
+            "Geography",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Ron Babin",
+        "subjects": [
+            "Information Technology",
+            "Psychology",
+            "Retail",
+            "Computer Science",
+            "English",
+            "Physics",
+            "Quantitative Methods",
+            "Business",
+            "Geography",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "David Lee",
+        "subjects": [
+            "Economics",
+            "Psychology",
+            "Criminal Justice",
+            "Philosophy",
+            "Marketing",
+            "Information Technology",
+            "Human Resources",
+            "Biology",
+            "Law",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Nara Jung",
+        "subjects": [
+            "Mathematics",
+            "Finance",
+            "Biology",
+            "Psychology",
+            "Information Technology",
+            "Computer Science",
+            "Management",
+            "Chemistry",
+            "Marketing",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Jane Saber",
+        "subjects": [
+            "Marketing",
+            "Information Technology",
+            "Electrical Engineering",
+            "Civil Engineering",
+            "Computer Science",
+            "Finance",
+            "English",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Rachel Jiang",
+        "subjects": [
+            "Computer Science",
+            "Sociology",
+            "Accounting",
+            "Information Technology",
+            "Philosophy",
+            "Mathematics",
+            "Law"
+        ]
+    },
+    {
+        "name": "Jonah Horowitz",
+        "subjects": [
+            "Mathematics",
+            "Physics",
+            "Interdisciplinary Studies",
+            "Accounting",
+            "Hospitality",
+            "Finance",
+            "Ethnic Studies",
+            "Economics",
+            "Criminal Justice",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Todd Girard",
+        "subjects": [
+            "Psychology",
+            "Mathematics",
+            "Management",
+            "Economics",
+            "Communication",
+            "Philosophy",
+            "Accounting",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Ken Wong",
+        "subjects": [
+            "Retail Management",
+            "Physics",
+            "English",
+            "Mathematics",
+            "Finance",
+            "Geography",
+            "Information Technology",
+            "Philosophy",
+            "Sociology",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Michael Chung",
+        "subjects": [
+            "Finance",
+            "Retail",
+            "Quantitative Methods",
+            "Economics",
+            "English",
+            "Geography",
+            "Business Management",
+            "Psychology",
+            "Business",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Kristin Force",
+        "subjects": [
+            "Music",
+            "Criminal Justice",
+            "Human Resources",
+            "Business",
+            "Marketing",
+            "Law",
+            "Geography",
+            "Philosophy",
+            "Biology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Horatio Morgan",
+        "subjects": [
+            "Management",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Marketing",
+            "Accounting",
+            "Information Technology",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Peter Luca",
+        "subjects": [
+            "Physics",
+            "Electrical Engineering",
+            "Economics",
+            "Computer Science",
+            "New Media Art",
+            "Information Technology",
+            "Civil Engineering",
+            "Human Resources",
+            "Finance",
+            "English"
+        ]
+    },
+    {
+        "name": "Liu Guoping",
+        "subjects": [
+            "Accounting",
+            "Economics",
+            "Philosophy",
+            "Mathematics",
+            "Information Technology",
+            "Sociology"
+        ]
+    },
+    {
+        "name": "Nancy Woodley",
+        "subjects": [
+            "Biology",
+            "Interdisciplinary Studies",
+            "Computer Science",
+            "Hospitality",
+            "Information Technology",
+            "Ethnic Studies",
+            "Accounting",
+            "Criminal Justice",
+            "Finance",
+            "Economics"
+        ]
+    },
+    {
+        "name": "Roberto Botelho",
+        "subjects": [
+            "Biology",
+            "Management",
+            "Law",
+            "Communication",
+            "Business",
+            "Mathematics",
+            "Economics",
+            "Accounting",
+            "Psychology",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "David Scofield",
+        "subjects": [
+            "Business",
+            "English",
+            "Public Health",
+            "Finance",
+            "Mechanical Engineering",
+            "Information Technology",
+            "Mathematics",
+            "Sociology",
+            "Geography",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Jared Allen",
+        "subjects": [
+            "Psychology",
+            "Quantitative Methods",
+            "English",
+            "Chemistry",
+            "Business Management",
+            "Economics",
+            "Business",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Peter Pille",
+        "subjects": [
+            "Information Technology",
+            "Human Resources",
+            "TV & Radio",
+            "Marketing",
+            "Interior Design",
+            "Geography",
+            "Business",
+            "Biology",
+            "Law",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Jian Guan",
+        "subjects": [
+            "Management",
+            "Chemistry",
+            "Marketing",
+            "Computer Science",
+            "Geography",
+            "Accounting",
+            "Finance",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Liz Podnieks",
+        "subjects": [
+            "English",
+            "Computer Science",
+            "Civil Engineering",
+            "Finance",
+            "Human Resources",
+            "Graphic Arts",
+            "Sociology",
+            "Information Technology",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Alasdair Goodwill",
+        "subjects": [
+            "Psychology",
+            "Philosophy",
+            "Information Technology",
+            "Accounting",
+            "Geography",
+            "Marketing",
+            "Business Management",
+            "Sociology",
+            "Law",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Ila Ahlawat",
+        "subjects": [
+            "Communication",
+            "Hospitality",
+            "Accounting",
+            "Finance",
+            "Marketing",
+            "Information Technology",
+            "Criminal Justice",
+            "Chemistry",
+            "Interdisciplinary Studies",
+            "Ethnic Studies",
+            "Economics"
+        ]
+    },
+    {
+        "name": "Melanie Knight",
+        "subjects": [
+            "Sociology",
+            "Communication",
+            "Economics",
+            "Psychology",
+            "Geography",
+            "Biology",
+            "Computer Science",
+            "Accounting",
+            "Information Technology",
+            "Management",
+            "Mathematics",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Martin Pyle",
+        "subjects": [
+            "Business",
+            "Finance",
+            "Mathematics",
+            "Geography",
+            "Accounting",
+            "Law",
+            "Human Resources",
+            "Sociology",
+            "Psychology",
+            "English",
+            "Information Technology",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Robert Teigrob",
+        "subjects": [
+            "History",
+            "English",
+            "Economics",
+            "Geography",
+            "Electrical Engineering",
+            "Information Technology",
+            "Psychology",
+            "Business",
+            "Physics",
+            "Quantitative Methods",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Pedro Goldman",
+        "subjects": [
+            "Physics",
+            "Marketing",
+            "Business",
+            "Law",
+            "Information Technology",
+            "Economics",
+            "Psychology",
+            "Biology",
+            "Human Resources",
+            "Geography",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Heriberto Pages",
+        "subjects": [
+            "Languages",
+            "Computer Science",
+            "Marketing",
+            "Geography",
+            "Mathematics",
+            "Finance",
+            "Management",
+            "Chemistry",
+            "Accounting",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Ratna Ray",
+        "subjects": [
+            "Electrical Engineering",
+            "Sociology",
+            "Information Technology",
+            "Marketing",
+            "Business",
+            "History",
+            "Finance"
+        ]
+    },
+    {
+        "name": "David MacKenzie",
+        "subjects": [
+            "Accounting",
+            "Business Management",
+            "Mathematics",
+            "Computer Science",
+            "Communication",
+            "Sociology",
+            "Criminal Justice",
+            "Law"
+        ]
+    },
+    {
+        "name": "Lori Beckstead",
+        "subjects": [
+            "Interdisciplinary Studies",
+            "Information Technology",
+            "Ethnic Studies",
+            "Mathematics",
+            "TV & Radio",
+            "Physics",
+            "Computer Science",
+            "Chemistry",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Kate Eichhorn",
+        "subjects": [
+            "Management",
+            "Computer Science",
+            "Mathematics",
+            "Psychology",
+            "History",
+            "English",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Zhen LU",
+        "subjects": [
+            "English",
+            "Human Resources",
+            "Information Technology",
+            "Retail Management",
+            "Law",
+            "Physics",
+            "Finance",
+            "Psychology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Dave Kirsh",
+        "subjects": [
+            "Quantitative Methods",
+            "Psychology",
+            "Business Management",
+            "Finance",
+            "Criminal Justice",
+            "Retail",
+            "Computer Science",
+            "Physics",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Sally Goldberg",
+        "subjects": [
+            "Human Resources",
+            "Psychology",
+            "Geography",
+            "Music",
+            "Management",
+            "Criminal Justice",
+            "Information Technology",
+            "Law"
+        ]
+    },
+    {
+        "name": "Janet Koprivnikar",
+        "subjects": [
+            "Chemistry",
+            "Finance",
+            "Accounting",
+            "Management",
+            "Psychology",
+            "Biology",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Mohammad Nikoofal",
+        "subjects": [
+            "Finance",
+            "New Media Art",
+            "Information Technology",
+            "Criminal Justice",
+            "Mathematics",
+            "Computer Science",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Thomas Barbiero",
+        "subjects": [
+            "Accounting",
+            "Philosophy",
+            "Sociology",
+            "Business",
+            "Environmental Studies",
+            "Law"
+        ]
+    },
+    {
+        "name": "Grace-Edward Galabuzi",
+        "subjects": [
+            "Finance",
+            "Information Technology",
+            "Physics",
+            "Mathematics",
+            "Hospitality",
+            "Interdisciplinary Studies",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Tomaz Jardim",
+        "subjects": [
+            "Psychology",
+            "Business",
+            "Mathematics",
+            "Physics",
+            "Philosophy",
+            "Communication",
+            "Management",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Joseph Tohill",
+        "subjects": [
+            "Geography",
+            "Mechanical Engineering",
+            "Physics",
+            "Business",
+            "Electrical Engineering",
+            "Finance",
+            "English",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Patricia McGraw",
+        "subjects": [
+            "Geography",
+            "Chemistry",
+            "Retail",
+            "Accounting",
+            "Health & Safety",
+            "English",
+            "Quantitative Methods",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Daolun Chen",
+        "subjects": [
+            "Law",
+            "Interior Design",
+            "Criminal Justice",
+            "Chemistry",
+            "Finance",
+            "Marketing",
+            "Human Resources",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "John Caruana",
+        "subjects": [
+            "Marketing",
+            "Geography",
+            "Biology",
+            "Business",
+            "Law",
+            "Computer Science",
+            "Chemistry",
+            "Management"
+        ]
+    },
+    {
+        "name": "Hitesh Doshi",
+        "subjects": [
+            "Human Resources",
+            "Computer Science",
+            "Criminal Justice",
+            "Physics",
+            "Business",
+            "Information Technology",
+            "English",
+            "History"
+        ]
+    },
+    {
+        "name": "Pria Nippak",
+        "subjects": [
+            "Sociology",
+            "Philosophy",
+            "Business",
+            "Accounting",
+            "Communication",
+            "Mathematics",
+            "Law",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Helen Chen",
+        "subjects": [
+            "Criminal Justice",
+            "Hospitality",
+            "Mathematics",
+            "Biology",
+            "TV & Radio",
+            "Ethnic Studies",
+            "Economics",
+            "Chemistry",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Fiona Whittington-Walsh",
+        "subjects": [
+            "Accounting",
+            "Communication",
+            "Physics",
+            "Biology",
+            "History",
+            "Mathematics",
+            "Philosophy",
+            "Information Technology",
+            "English"
+        ]
+    },
+    {
+        "name": "Laura Thrasher",
+        "subjects": [
+            "Sociology",
+            "Finance",
+            "Business",
+            "Law",
+            "Information Technology",
+            "Philosophy",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Catherine Dunphy",
+        "subjects": [
+            "Business",
+            "English",
+            "Accounting",
+            "Psychology",
+            "Criminal Justice",
+            "Business Management",
+            "Physics",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Seyun Jung",
+        "subjects": [
+            "Biology",
+            "Marketing",
+            "Chemistry",
+            "Information Technology",
+            "Management",
+            "Geography",
+            "Philosophy",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Suanne Kelman",
+        "subjects": [
+            "Finance",
+            "Computer Science",
+            "Business",
+            "Management",
+            "Psychology",
+            "Accounting",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Shudong Yu",
+        "subjects": [
+            "History",
+            "Electrical Engineering",
+            "Criminal Justice",
+            "Information Technology",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Catherine Ellis",
+        "subjects": [
+            "Criminal Justice",
+            "Accounting",
+            "Business",
+            "Mathematics",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Jennifer Brayton",
+        "subjects": [
+            "Computer Science",
+            "Interdisciplinary Studies",
+            "Mathematics",
+            "Ethnic Studies",
+            "Hospitality"
+        ]
+    },
+    {
+        "name": "Sandra Lim",
+        "subjects": [
+            "English",
+            "Management",
+            "Physics",
+            "Mathematics",
+            "Communication"
+        ]
+    },
+    {
+        "name": "Marco Antoniades",
+        "subjects": [
+            "Finance",
+            "English",
+            "Business",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Wayne Forsythe",
+        "subjects": [
+            "Computer Science",
+            "Quantitative Methods",
+            "Accounting",
+            "Business Management",
+            "English"
+        ]
+    },
+    {
+        "name": "Nken Moise",
+        "subjects": [
+            "Psychology",
+            "Human Resources",
+            "Chemistry",
+            "Geography",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Joyce Smith",
+        "subjects": [
+            "Psychology",
+            "Chemistry",
+            "Business",
+            "Accounting",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Mohammed Roghanizad",
+        "subjects": [
+            "Computer Science",
+            "Mathematics",
+            "Criminal Justice",
+            "Finance",
+            "Marketing",
+            "English",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Jurji Leshchyshyn",
+        "subjects": [
+            "Philosophy",
+            "Environmental Studies",
+            "Business",
+            "Accounting",
+            "Computer Science",
+            "Sociology"
+        ]
+    },
+    {
+        "name": "Christine Houston",
+        "subjects": [
+            "Hospitality",
+            "Information Technology",
+            "Mathematics",
+            "Finance",
+            "Economics",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Kosha Bramesfeld",
+        "subjects": [
+            "Communication",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Constantine Angyridis",
+        "subjects": [
+            "Finance",
+            "Electrical Engineering",
+            "Business",
+            "Geography",
+            "Retail Management",
+            "Philosophy",
+            "Sociology"
+        ]
+    },
+    {
+        "name": "Tae Hart",
+        "subjects": [
+            "English",
+            "Health & Safety",
+            "Accounting",
+            "Geography",
+            "Finance",
+            "Psychology",
+            "Business"
+        ]
+    },
+    {
+        "name": "Jason Reid",
+        "subjects": [
+            "Marketing",
+            "Finance",
+            "Chemistry",
+            "Law",
+            "Music",
+            "Philosophy",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Ian Shelton",
+        "subjects": [
+            "Computer Science",
+            "Law",
+            "Business",
+            "Marketing",
+            "Management",
+            "Information Technology",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Tor Oiamo",
+        "subjects": [
+            "Economics",
+            "Criminal Justice",
+            "Human Resources",
+            "Marketing",
+            "English",
+            "Physics",
+            "History",
+            "Sociology",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Mehrdad Tirandazian",
+        "subjects": [
+            "Economics",
+            "Business",
+            "Sociology",
+            "Computer Science",
+            "Accounting",
+            "Criminal Justice",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Gerry Mcgoldrick",
+        "subjects": [
+            "Computer Science",
+            "Mathematics",
+            "Criminal Justice",
+            "Economics",
+            "Biology",
+            "Information Technology",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Zeina Keisse",
+        "subjects": [
+            "Law",
+            "Physics",
+            "Accounting",
+            "Psychology",
+            "Philosophy",
+            "Biology",
+            "English",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Dan Horner",
+        "subjects": [
+            "Public Health",
+            "Business",
+            "Sociology",
+            "Retail Management",
+            "Philosophy",
+            "Finance",
+            "Human Resources",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Sebastian Ferrando",
+        "subjects": [
+            "Psychology",
+            "Accounting",
+            "Business",
+            "Finance",
+            "Computer Science",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Karen Naidoo",
+        "subjects": [
+            "TV & Radio",
+            "Chemistry",
+            "Biology",
+            "Music",
+            "Philosophy",
+            "Information Technology",
+            "Psychology",
+            "Law"
+        ]
+    },
+    {
+        "name": "Vikraman Baskaran",
+        "subjects": [
+            "Marketing",
+            "Business",
+            "Finance",
+            "Management",
+            "Information Technology",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Ida Berger",
+        "subjects": [
+            "Human Resources",
+            "English",
+            "Sociology",
+            "Mathematics",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Lei Gao",
+        "subjects": [
+            "Geography",
+            "Accounting",
+            "Business Management",
+            "Environmental Studies",
+            "Sociology",
+            "Law"
+        ]
+    },
+    {
+        "name": "Gul Khan",
+        "subjects": [
+            "Marketing",
+            "Economics",
+            "Information Technology",
+            "Criminal Justice",
+            "Physics",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Nicole Kirwan",
+        "subjects": [
+            "Geography",
+            "Philosophy",
+            "Computer Science",
+            "Accounting",
+            "Mathematics",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Don Elder",
+        "subjects": [
+            "Accounting",
+            "Philosophy",
+            "Human Resources",
+            "Electrical Engineering",
+            "Sociology",
+            "Physics",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Paul Whissell",
+        "subjects": [
+            "Electrical Engineering",
+            "Psychology",
+            "Health & Safety",
+            "Business",
+            "Retail",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Donna Appavoo",
+        "subjects": [
+            "Information Technology",
+            "Philosophy",
+            "Psychology",
+            "Finance",
+            "Biology",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Frankie Stewart",
+        "subjects": [
+            "Geography",
+            "Information Technology",
+            "Finance",
+            "Law",
+            "Biology",
+            "Management"
+        ]
+    },
+    {
+        "name": "Diane Pirner",
+        "subjects": [
+            "Graphic Arts",
+            "Physics",
+            "Human Resources",
+            "Information Technology",
+            "Sociology"
+        ]
+    },
+    {
+        "name": "Jeffrey Fillingham",
+        "subjects": [
+            "Marketing",
+            "Accounting",
+            "Sociology",
+            "Business Management",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Chris Gore",
+        "subjects": [
+            "Information Technology",
+            "Biology",
+            "Criminal Justice",
+            "Physics",
+            "Ethnic Studies"
+        ]
+    },
+    {
+        "name": "Rohan Sud",
+        "subjects": [
+            "Biology",
+            "Accounting",
+            "Mathematics",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Tonya Davidson",
+        "subjects": [
+            "Law",
+            "Business",
+            "Sociology",
+            "Physics",
+            "Human Resources",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Elaine Santa Mina",
+        "subjects": [
+            "Information Technology",
+            "Psychology",
+            "Business",
+            "Retail",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Christopher Thomson",
+        "subjects": [
+            "Economics",
+            "Information Technology",
+            "Biology",
+            "Criminal Justice",
+            "Psychology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Gulraze Wakil",
+        "subjects": [
+            "Mathematics",
+            "Management",
+            "Finance",
+            "Biology",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Irene Lee",
+        "subjects": [
+            "Marketing",
+            "History",
+            "Economics",
+            "New Media Art",
+            "Civil Engineering",
+            "Human Resources",
+            "Sociology",
+            "English",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Sorpong Peou",
+        "subjects": [
+            "Computer Science",
+            "Criminal Justice",
+            "Economics",
+            "Philosophy",
+            "Information Technology",
+            "Sociology",
+            "Business Management",
+            "Accounting",
+            "Law"
+        ]
+    },
+    {
+        "name": "Laurinda Hartt-Fournier",
+        "subjects": [
+            "Mathematics",
+            "Computer Science",
+            "Information Technology",
+            "Accounting",
+            "Criminal Justice",
+            "Economics",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Naima Cherchem",
+        "subjects": [
+            "Psychology",
+            "English",
+            "Law",
+            "Business",
+            "Economics",
+            "Accounting",
+            "Computer Science",
+            "Philosophy",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Carolyn Kane",
+        "subjects": [
+            "Retail Management",
+            "Finance",
+            "Public Health",
+            "Mechanical Engineering",
+            "Mathematics",
+            "Sociology",
+            "Human Resources",
+            "Philosophy",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Kelly McShane",
+        "subjects": [
+            "Finance",
+            "Computer Science",
+            "Psychology",
+            "Chemistry",
+            "Economics",
+            "Business",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Paul Moore",
+        "subjects": [
+            "Music",
+            "Psychology",
+            "TV & Radio",
+            "Interior Design",
+            "Business",
+            "Biology",
+            "Philosophy",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Niusha Ghazban",
+        "subjects": [
+            "Management",
+            "Psychology",
+            "Marketing",
+            "Geography",
+            "Computer Science",
+            "Finance",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Mark Lee",
+        "subjects": [
+            "Physics",
+            "English",
+            "Computer Science",
+            "New Media Art",
+            "Criminal Justice",
+            "Finance",
+            "Mathematics",
+            "Graphic Arts",
+            "Sociology",
+            "Information Technology",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Jonathan Hughes",
+        "subjects": [
+            "Accounting",
+            "Philosophy",
+            "Business",
+            "Environmental Studies",
+            "Marketing",
+            "Business Management",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "David Xu",
+        "subjects": [
+            "Biology",
+            "Economics",
+            "Hospitality",
+            "Information Technology",
+            "Mathematics",
+            "Finance",
+            "Ethnic Studies",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Adam Eckhardt",
+        "subjects": [
+            "Biology",
+            "Philosophy",
+            "Communication",
+            "Business",
+            "Physics",
+            "Psychology",
+            "Computer Science",
+            "Mathematics",
+            "Management"
+        ]
+    },
+    {
+        "name": "Afsoon Soudi",
+        "subjects": [
+            "Business",
+            "Philosophy",
+            "Finance",
+            "Mechanical Engineering",
+            "Geography",
+            "Electrical Engineering",
+            "Law",
+            "Human Resources",
+            "Information Technology",
+            "English"
+        ]
+    },
+    {
+        "name": "Martin Habekost",
+        "subjects": [
+            "Psychology",
+            "English",
+            "Chemistry",
+            "Accounting",
+            "Geography",
+            "Health & Safety",
+            "Information Technology",
+            "Business Management",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Christopher Greene",
+        "subjects": [
+            "Information Technology",
+            "Philosophy",
+            "Marketing",
+            "Interior Design",
+            "Chemistry",
+            "Law",
+            "Finance",
+            "Economics",
+            "Psychology",
+            "Geography",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Hasko von Kriegstein",
+        "subjects": [
+            "Management",
+            "Information Technology",
+            "Computer Science",
+            "Geography",
+            "Business",
+            "Marketing",
+            "Law",
+            "Mathematics",
+            "Finance",
+            "Accounting",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Cherie Ding",
+        "subjects": [
+            "Electrical Engineering",
+            "Civil Engineering",
+            "Criminal Justice",
+            "Business",
+            "Information Technology",
+            "History",
+            "English",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Curtis Maloley",
+        "subjects": [
+            "Accounting",
+            "Information Technology",
+            "Business",
+            "Communication",
+            "Sociology",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Steven Ehrlick",
+        "subjects": [
+            "Interdisciplinary Studies",
+            "Accounting",
+            "Mathematics",
+            "TV & Radio",
+            "Physics",
+            "Computer Science",
+            "Economics",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Carlo Fanelli",
+        "subjects": [
+            "Management",
+            "Economics",
+            "Physics",
+            "History",
+            "Mathematics",
+            "English",
+            "Philosophy",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Kaitlyn Irving",
+        "subjects": [
+            "English",
+            "Mathematics",
+            "Business",
+            "Law",
+            "Physics",
+            "Finance",
+            "Philosophy",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Nicholas Bordignon",
+        "subjects": [
+            "Quantitative Methods",
+            "Economics",
+            "Accounting",
+            "Criminal Justice",
+            "Retail",
+            "Computer Science",
+            "Psychology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Jinyuan Liu",
+        "subjects": [
+            "Human Resources",
+            "Business",
+            "Chemistry",
+            "Management",
+            "Criminal Justice",
+            "Psychology",
+            "Philosophy",
+            "Law"
+        ]
+    },
+    {
+        "name": "Mary-Jo Nicholson",
+        "subjects": [
+            "Chemistry",
+            "Computer Science",
+            "Business",
+            "Psychology",
+            "Biology",
+            "Information Technology",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Avideh Gharehgazlou",
+        "subjects": [
+            "Finance",
+            "New Media Art",
+            "Marketing",
+            "Physics",
+            "Sociology",
+            "Mathematics",
+            "Civil Engineering",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Karim Bardeesy",
+        "subjects": [
+            "Accounting",
+            "Philosophy",
+            "Computer Science",
+            "Business Management",
+            "Environmental Studies",
+            "Information Technology",
+            "Sociology",
+            "Law"
+        ]
+    },
+    {
+        "name": "Hugh Simmonds",
+        "subjects": [
+            "Finance",
+            "Information Technology",
+            "Mathematics",
+            "Biology",
+            "Accounting",
+            "Physics",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Margery Winkler",
+        "subjects": [
+            "Psychology",
+            "Business",
+            "Biology",
+            "Computer Science",
+            "Philosophy",
+            "Economics",
+            "Mathematics",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Anne Moorhouse",
+        "subjects": [
+            "Geography",
+            "Mechanical Engineering",
+            "Retail Management",
+            "Business",
+            "Human Resources",
+            "Electrical Engineering",
+            "Mathematics",
+            "Physics",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Jeremy Shtern",
+        "subjects": [
+            "Geography",
+            "Chemistry",
+            "Finance",
+            "Psychology",
+            "Health & Safety",
+            "Economics",
+            "Retail",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Lynn Harrison",
+        "subjects": [
+            "Law",
+            "Interior Design",
+            "Music",
+            "Information Technology",
+            "Psychology",
+            "Finance",
+            "Business",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Maurice Roche",
+        "subjects": [
+            "Marketing",
+            "Geography",
+            "Management",
+            "Finance",
+            "Law",
+            "Computer Science",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Selcuk Savas",
+        "subjects": [
+            "Human Resources",
+            "Criminal Justice",
+            "Physics",
+            "Business",
+            "Electrical Engineering",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Sophie Thomas",
+        "subjects": [
+            "Sociology",
+            "Business",
+            "Accounting",
+            "Communication",
+            "Mathematics",
+            "Law"
+        ]
+    },
+    {
+        "name": "Agnes Meinhard",
+        "subjects": [
+            "Criminal Justice",
+            "Mathematics",
+            "Biology",
+            "TV & Radio",
+            "Interdisciplinary Studies",
+            "Ethnic Studies",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Busha Taa",
+        "subjects": [
+            "Accounting",
+            "Physics",
+            "Biology",
+            "History",
+            "Management",
+            "Mathematics",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Vadim Bostan",
+        "subjects": [
+            "Sociology",
+            "Business",
+            "Law",
+            "English",
+            "Information Technology",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Michael Miller",
+        "subjects": [
+            "Business",
+            "Accounting",
+            "Psychology",
+            "Criminal Justice",
+            "Quantitative Methods",
+            "Business Management",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Nancy Walton",
+        "subjects": [
+            "Biology",
+            "Chemistry",
+            "Information Technology",
+            "Management",
+            "Human Resources",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Waclaw Dajnowiec",
+        "subjects": [
+            "Finance",
+            "Business",
+            "Management",
+            "Psychology",
+            "Chemistry",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Bruno Lessard",
+        "subjects": [
+            "History",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "English"
+        ]
+    },
+    {
+        "name": "Doug Bower",
+        "subjects": [
+            "Criminal Justice",
+            "Information Technology",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Jesse Tanguay",
+        "subjects": [
+            "Computer Science",
+            "Accounting",
+            "Interdisciplinary Studies",
+            "Economics"
+        ]
+    },
+    {
+        "name": "Linda Cooper",
+        "subjects": [
+            "English",
+            "Economics",
+            "Management",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Sareh Pouryousefi",
+        "subjects": [
+            "Finance",
+            "Mathematics",
+            "English",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Darko Joksimovic",
+        "subjects": [
+            "Computer Science",
+            "Economics",
+            "Quantitative Methods",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Nancy Latimer",
+        "subjects": [
+            "Psychology",
+            "Business",
+            "Human Resources",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Gregory Levey",
+        "subjects": [
+            "Psychology",
+            "Computer Science",
+            "Chemistry",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Ian Young",
+        "subjects": [
+            "Computer Science",
+            "New Media Art",
+            "Mathematics",
+            "English",
+            "Information Technology",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Stewart Melanson",
+        "subjects": [
+            "Philosophy",
+            "Environmental Studies",
+            "Accounting",
+            "Sociology",
+            "Mathematics",
+            "Law"
+        ]
+    },
+    {
+        "name": "Molly Henry",
+        "subjects": [
+            "Hospitality",
+            "Information Technology",
+            "Economics",
+            "Physics",
+            "Ethnic Studies",
+            "Finance",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Leigh Lampert",
+        "subjects": [
+            "Communication",
+            "Business",
+            "Philosophy",
+            "Mathematics",
+            "Psychology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Jean-Paul Boudreau",
+        "subjects": [
+            "Finance",
+            "Mechanical Engineering",
+            "Electrical Engineering",
+            "Philosophy",
+            "Physics",
+            "Information Technology",
+            "Geography",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Salewa Olawoye",
+        "subjects": [
+            "English",
+            "Chemistry",
+            "Health & Safety",
+            "Psychology",
+            "Retail",
+            "Business Management",
+            "Geography",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Fiona Yeudall",
+        "subjects": [
+            "Marketing",
+            "Interior Design",
+            "Finance",
+            "Philosophy",
+            "Criminal Justice",
+            "Geography",
+            "Law",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Nikolina Radulovich",
+        "subjects": [
+            "Computer Science",
+            "Geography",
+            "Law",
+            "Information Technology",
+            "Biology",
+            "Accounting",
+            "Marketing",
+            "Management"
+        ]
+    },
+    {
+        "name": "Olivia Das",
+        "subjects": [
+            "Economics",
+            "Criminal Justice",
+            "English",
+            "History"
+        ]
+    },
+    {
+        "name": "Sandra Tullio Pow",
+        "subjects": [
+            "Economics",
+            "Business",
+            "Accounting",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Larry Yarmolinsky",
+        "subjects": [
+            "Computer Science",
+            "Mathematics",
+            "Economics"
+        ]
+    },
+    {
+        "name": "Karen Ruddy",
+        "subjects": [
+            "Law",
+            "Physics",
+            "Philosophy",
+            "English"
+        ]
+    },
+    {
+        "name": "Morteza Kermani",
+        "subjects": [
+            "Public Health",
+            "Business",
+            "Philosophy",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Jeffrey Newhouse",
+        "subjects": [
+            "Psychology",
+            "Accounting",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Alireza Rafiee",
+        "subjects": [
+            "TV & Radio",
+            "Chemistry",
+            "Philosophy",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Melissa Moos",
+        "subjects": [
+            "Marketing",
+            "Business",
+            "Information Technology",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Melanie Dempsey",
+        "subjects": [
+            "Human Resources",
+            "English"
+        ]
+    },
+    {
+        "name": "Raffi Karshafian",
+        "subjects": [
+            "Geography",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Elizabeth Speers",
+        "subjects": [
+            "Marketing",
+            "Economics"
+        ]
+    },
+    {
+        "name": "Alana Butler",
+        "subjects": [
+            "Geography",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Meagan McKenzie",
+        "subjects": [
+            "Accounting",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Brian Gordon",
+        "subjects": [
+            "Electrical Engineering",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Michael Arts",
+        "subjects": [
+            "Information Technology",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Brian Rabinowicz",
+        "subjects": [
+            "Geography",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Isaac Coplan",
+        "subjects": [
+            "Graphic Arts",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Lloyd Alter",
+        "subjects": [
+            "Marketing",
+            "Law"
+        ]
+    },
+    {
+        "name": "Samaneh Gholami",
+        "subjects": [
+            "Information Technology",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Sheilagh Callahan",
+        "subjects": [
+            "Biology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Habiba Bougherara",
+        "subjects": [
+            "Law",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Anver Saloojee",
+        "subjects": [
+            "Information Technology",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Cyndy Baskin",
+        "subjects": [
+            "Economics",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Mohammed Manshouri",
+        "subjects": [
+            "Mathematics",
+            "Management"
+        ]
+    },
+    {
+        "name": "Mourad Michael",
+        "subjects": [
+            "Marketing",
+            "New Media Art",
+            "Civil Engineering",
+            "Finance",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Robert Greene",
+        "subjects": [
+            "Computer Science",
+            "Philosophy",
+            "Information Technology",
+            "Accounting",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Steve Daniels",
+        "subjects": [
+            "Mathematics",
+            "Information Technology",
+            "Accounting",
+            "Finance",
+            "Ethnic Studies"
+        ]
+    },
+    {
+        "name": "Muhammad Naeem Irfan",
+        "subjects": [
+            "Psychology",
+            "Business",
+            "Economics",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Ersan Cam",
+        "subjects": [
+            "Retail Management",
+            "Mechanical Engineering",
+            "Mathematics",
+            "Geography",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Amira Ghenai",
+        "subjects": [
+            "Finance",
+            "Chemistry",
+            "Economics",
+            "Geography",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Zorianna Zurba",
+        "subjects": [
+            "Music",
+            "Interior Design",
+            "Business",
+            "Law",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Stanley Chase",
+        "subjects": [
+            "Management",
+            "Geography",
+            "Computer Science",
+            "Marketing",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Tammy Fansabedian",
+        "subjects": [
+            "Physics",
+            "Computer Science",
+            "Civil Engineering",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Myriam Martel",
+        "subjects": [
+            "Accounting",
+            "Philosophy",
+            "Information Technology",
+            "Geography",
+            "Sociology"
+        ]
+    },
+    {
+        "name": "Ardavan Eizadirad",
+        "subjects": [
+            "Biology",
+            "Hospitality",
+            "Accounting",
+            "Marketing",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Thomas Schneider",
+        "subjects": [
+            "Biology",
+            "Communication",
+            "Economics",
+            "Geography",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Cristina Catallo",
+        "subjects": [
+            "Business",
+            "Finance",
+            "Mathematics",
+            "Accounting",
+            "Sociology"
+        ]
+    },
+    {
+        "name": "Ian Mosby",
+        "subjects": [
+            "Psychology",
+            "English",
+            "Economics",
+            "Electrical Engineering",
+            "Business"
+        ]
+    },
+    {
+        "name": "Alexander Stack",
+        "subjects": [
+            "Information Technology",
+            "Marketing",
+            "Business",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Lorne Zeiler",
+        "subjects": [
+            "Management",
+            "Computer Science",
+            "Geography",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Douglas New",
+        "subjects": [
+            "Electrical Engineering",
+            "Human Resources",
+            "History"
+        ]
+    },
+    {
+        "name": "Ken Moffatt",
+        "subjects": [
+            "Accounting",
+            "Sociology",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Ana-Maria Herman",
+        "subjects": [
+            "Interdisciplinary Studies",
+            "Criminal Justice",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Robert Coelho",
+        "subjects": [
+            "Management",
+            "Accounting",
+            "English"
+        ]
+    },
+    {
+        "name": "Michael Shneer",
+        "subjects": [
+            "English",
+            "Sociology",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Greg Kawall",
+        "subjects": [
+            "Quantitative Methods",
+            "Business",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Ehsan Behzadfar",
+        "subjects": [
+            "Human Resources",
+            "Biology",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "John Cirka",
+        "subjects": [
+            "Chemistry",
+            "Finance",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Mandana Vahabi",
+        "subjects": [
+            "Finance",
+            "Sociology",
+            "New Media Art",
+            "Criminal Justice",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Jeff Edmunds",
+        "subjects": [
+            "Accounting",
+            "Business Management",
+            "Philosophy",
+            "Business",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Greg Elmer",
+        "subjects": [
+            "Finance",
+            "Information Technology",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Vincenzo Caponi",
+        "subjects": [
+            "Psychology",
+            "Computer Science",
+            "Business",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Asif Salam",
+        "subjects": [
+            "Geography",
+            "Human Resources",
+            "Mechanical Engineering",
+            "Business",
+            "Retail Management"
+        ]
+    },
+    {
+        "name": "Nadia Potts",
+        "subjects": [
+            "Geography",
+            "Psychology",
+            "Chemistry",
+            "Accounting",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Christopher De Sousa",
+        "subjects": [
+            "Law",
+            "Psychology",
+            "Interior Design",
+            "Chemistry",
+            "Music"
+        ]
+    },
+    {
+        "name": "Renee Ferguson",
+        "subjects": [
+            "Marketing",
+            "Finance",
+            "Geography",
+            "Business",
+            "Management"
+        ]
+    },
+    {
+        "name": "Kari Maaren",
+        "subjects": [
+            "English"
+        ]
+    },
+    {
+        "name": "Cheryl Dyson",
+        "subjects": [
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Frank Trimnell",
+        "subjects": [
+            "Economics"
+        ]
+    },
+    {
+        "name": "Andrew Hunter",
+        "subjects": [
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "David Hunter",
+        "subjects": [
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Maureen Reed",
+        "subjects": [
+            "Psychology"
+        ]
+    },
+    {
+        "name": "James Cunningham",
+        "subjects": [
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Nurul Huda",
+        "subjects": [
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Stephen Sheps",
+        "subjects": [
+            "Sociology",
+            "Electrical Engineering",
+            "Information Technology",
+            "Finance",
+            "English"
+        ]
+    },
+    {
+        "name": "Mahsa Madani-Hosseini",
+        "subjects": [
+            "Business Management",
+            "Accounting",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Aziz Guergachi",
+        "subjects": [
+            "Information Technology",
+            "Interdisciplinary Studies",
+            "Ethnic Studies",
+            "Finance",
+            "Economics"
+        ]
+    },
+    {
+        "name": "Denis Hamelin",
+        "subjects": [
+            "Computer Science",
+            "Management",
+            "Mathematics",
+            "Psychology",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Pat Sniderman",
+        "subjects": [
+            "Human Resources",
+            "English",
+            "Information Technology",
+            "Geography",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Alexandra Fiocco",
+        "subjects": [
+            "Psychology",
+            "Quantitative Methods",
+            "Business Management",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Tisha Ornstein",
+        "subjects": [
+            "Psychology",
+            "Human Resources",
+            "Geography",
+            "Law",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Laleh Samarbakhsh",
+        "subjects": [
+            "Finance",
+            "Chemistry",
+            "Accounting",
+            "Marketing",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Khandaker Hossain",
+        "subjects": [
+            "Civil Engineering",
+            "Information Technology",
+            "Human Resources",
+            "Finance",
+            "Electrical Engineering",
+            "English"
+        ]
+    },
+    {
+        "name": "Ojelanki Ngwenyama",
+        "subjects": [
+            "Information Technology",
+            "Mathematics",
+            "Sociology",
+            "Accounting",
+            "Law"
+        ]
+    },
+    {
+        "name": "Daria Sydor",
+        "subjects": [
+            "Accounting",
+            "Ethnic Studies",
+            "Criminal Justice",
+            "Finance",
+            "Chemistry",
+            "Interdisciplinary Studies",
+            "Economics"
+        ]
+    },
+    {
+        "name": "Debapriya Sen",
+        "subjects": [
+            "Economics",
+            "Mathematics",
+            "Accounting",
+            "Psychology",
+            "Information Technology",
+            "Management",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Saeid Samiezadeh",
+        "subjects": [
+            "Mathematics",
+            "Information Technology",
+            "Sociology",
+            "Geography",
+            "Psychology",
+            "English",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "John Isbister",
+        "subjects": [
+            "Economics",
+            "Business Management",
+            "Business",
+            "Geography",
+            "Physics",
+            "Quantitative Methods",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Mary Han",
+        "subjects": [
+            "Business",
+            "Geography",
+            "Biology",
+            "Law",
+            "Information Technology",
+            "Human Resources",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Eric Harley",
+        "subjects": [
+            "Computer Science",
+            "Accounting",
+            "Finance",
+            "Marketing",
+            "Management",
+            "Chemistry",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Hamza Khan",
+        "subjects": [
+            "New Media Art",
+            "Information Technology",
+            "Human Resources",
+            "English",
+            "History",
+            "Electrical Engineering",
+            "Sociology",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Jo Kornegay",
+        "subjects": [
+            "Philosophy",
+            "Mathematics",
+            "Sociology",
+            "Accounting",
+            "Criminal Justice",
+            "Business Management",
+            "Law"
+        ]
+    },
+    {
+        "name": "Lin Ying Dong",
+        "subjects": [
+            "Information Technology",
+            "Ethnic Studies",
+            "Criminal Justice",
+            "Economics",
+            "Computer Science",
+            "Interdisciplinary Studies",
+            "Finance",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Neil Wolff",
+        "subjects": [
+            "Business",
+            "Mathematics",
+            "Accounting",
+            "Philosophy",
+            "English",
+            "Management",
+            "Computer Science",
+            "Psychology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Ravi Ravindran",
+        "subjects": [
+            "Mechanical Engineering",
+            "Information Technology",
+            "Sociology",
+            "Philosophy",
+            "Finance",
+            "English",
+            "Human Resources",
+            "Geography",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Bryan Koivisto",
+        "subjects": [
+            "Chemistry",
+            "Business Management",
+            "Business",
+            "Psychology",
+            "Computer Science",
+            "Quantitative Methods",
+            "Geography",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Mimi Whalen",
+        "subjects": [
+            "Interior Design",
+            "Geography",
+            "Biology",
+            "Philosophy",
+            "Psychology",
+            "Human Resources",
+            "Law",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Raymond Garrison",
+        "subjects": [
+            "Geography",
+            "Accounting",
+            "Finance",
+            "Information Technology",
+            "Psychology",
+            "Chemistry",
+            "Marketing",
+            "Management"
+        ]
+    },
+    {
+        "name": "Ajay Sandhu",
+        "subjects": [
+            "Criminal Justice",
+            "English",
+            "Human Resources",
+            "Information Technology",
+            "History",
+            "Computer Science",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Payman Ahi",
+        "subjects": [
+            "Business",
+            "Accounting",
+            "Sociology",
+            "Criminal Justice",
+            "Mathematics",
+            "Philosophy",
+            "Law"
+        ]
+    },
+    {
+        "name": "Jean Paul Pascal",
+        "subjects": [
+            "Mathematics",
+            "Economics",
+            "Criminal Justice",
+            "Physics",
+            "Computer Science",
+            "Ethnic Studies",
+            "Hospitality",
+            "Chemistry",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Todd Springer",
+        "subjects": [
+            "Physics",
+            "Philosophy",
+            "Accounting",
+            "Mathematics",
+            "English",
+            "Communication",
+            "Information Technology",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Murtaza Haider",
+        "subjects": [
+            "Business",
+            "Philosophy",
+            "Sociology",
+            "Physics",
+            "Finance",
+            "Information Technology",
+            "Psychology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Hossein Honarmand",
+        "subjects": [
+            "Accounting",
+            "Psychology",
+            "Business",
+            "Retail",
+            "Computer Science",
+            "Business Management",
+            "English",
+            "Physics",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Marc Adler",
+        "subjects": [
+            "Chemistry",
+            "Philosophy",
+            "Biology",
+            "Criminal Justice",
+            "Psychology",
+            "Geography",
+            "Marketing",
+            "Information Technology",
+            "Law"
+        ]
+    },
+    {
+        "name": "Tony Power",
+        "subjects": [
+            "Business",
+            "Information Technology",
+            "Finance",
+            "Biology",
+            "Psychology",
+            "Accounting",
+            "Computer Science",
+            "Management",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Wendy Burton",
+        "subjects": [
+            "English",
+            "New Media Art",
+            "Human Resources",
+            "Criminal Justice",
+            "Geography",
+            "Electrical Engineering",
+            "Information Technology",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Steven Solomon",
+        "subjects": [
+            "Accounting",
+            "Philosophy",
+            "Sociology",
+            "Business",
+            "Social Work",
+            "Mathematics",
+            "Law"
+        ]
+    },
+    {
+        "name": "Lynda McCarthy",
+        "subjects": [
+            "Economics",
+            "Information Technology",
+            "Criminal Justice",
+            "Mathematics",
+            "Biology",
+            "Interdisciplinary Studies",
+            "Ethnic Studies",
+            "Finance",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Antoinette Vena",
+        "subjects": [
+            "Philosophy",
+            "Business",
+            "Accounting",
+            "Physics",
+            "Management",
+            "Mathematics",
+            "Psychology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Paul Brunet",
+        "subjects": [
+            "Philosophy",
+            "Mechanical Engineering",
+            "Sociology",
+            "Business",
+            "Psychology",
+            "English",
+            "Information Technology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Michael Mueller",
+        "subjects": [
+            "Psychology",
+            "Chemistry",
+            "Business",
+            "Accounting",
+            "Quantitative Methods",
+            "Business Management",
+            "Geography",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Sam Lampropoulos",
+        "subjects": [
+            "Philosophy",
+            "Interior Design",
+            "Biology",
+            "Chemistry",
+            "Business",
+            "Human Resources",
+            "Geography",
+            "Law",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Brenda Glover",
+        "subjects": [
+            "Information Technology",
+            "Geography",
+            "Finance",
+            "Business",
+            "Human Resources",
+            "Chemistry",
+            "Accounting",
+            "Marketing",
+            "Management"
+        ]
+    },
+    {
+        "name": "Robert Murray",
+        "subjects": [
+            "Human Resources",
+            "Civil Engineering",
+            "Graphic Arts",
+            "New Media Art",
+            "Criminal Justice",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Rebecca Lock",
+        "subjects": [
+            "Sociology",
+            "Information Technology",
+            "Marketing",
+            "Philosophy",
+            "Business",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Peter Danziger",
+        "subjects": [
+            "Criminal Justice",
+            "Accounting",
+            "Information Technology",
+            "Mathematics",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Julia Lu",
+        "subjects": [
+            "Accounting",
+            "Economics",
+            "Biology",
+            "Business",
+            "Physics",
+            "Management"
+        ]
+    },
+    {
+        "name": "Colman Hogan",
+        "subjects": [
+            "Sociology",
+            "Mathematics",
+            "Law",
+            "Mechanical Engineering",
+            "Business",
+            "English"
+        ]
+    },
+    {
+        "name": "Laura Fisher",
+        "subjects": [
+            "Business",
+            "Economics",
+            "Information Technology",
+            "Chemistry",
+            "Accounting",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Alexandra Orlova",
+        "subjects": [
+            "Biology",
+            "Business",
+            "Economics",
+            "Interior Design",
+            "Chemistry",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Yuanshun Li",
+        "subjects": [
+            "Finance",
+            "Computer Science",
+            "Mathematics",
+            "Geography",
+            "Business",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Barbara Vogel",
+        "subjects": [
+            "Sociology",
+            "Marketing",
+            "Finance",
+            "Physics",
+            "Civil Engineering",
+            "History",
+            "English",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "David Ciavatta",
+        "subjects": [
+            "Business Management",
+            "Computer Science",
+            "Accounting",
+            "Information Technology",
+            "Criminal Justice",
+            "Sociology"
+        ]
+    },
+    {
+        "name": "Alex Wellington",
+        "subjects": [
+            "Information Technology",
+            "Mathematics",
+            "Finance",
+            "Biology",
+            "Accounting",
+            "Computer Science",
+            "Economics",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Evgeny Efremkin",
+        "subjects": [
+            "Computer Science",
+            "Psychology",
+            "Biology",
+            "Economics",
+            "English",
+            "Philosophy",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Shafi Bhuiyan",
+        "subjects": [
+            "Human Resources",
+            "Retail Management",
+            "Geography",
+            "Business",
+            "Mathematics",
+            "Finance",
+            "Philosophy",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Faezeh Ensan",
+        "subjects": [
+            "Psychology",
+            "Finance",
+            "Geography",
+            "Economics",
+            "Computer Science",
+            "Retail"
+        ]
+    },
+    {
+        "name": "Muhammad Yousaf",
+        "subjects": [
+            "Psychology",
+            "Music",
+            "Law",
+            "Information Technology",
+            "Business",
+            "Philosophy",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Wally Kowal",
+        "subjects": [
+            "Finance",
+            "Management",
+            "Marketing",
+            "Computer Science",
+            "Psychology",
+            "Information Technology",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Nukhet Taylor",
+        "subjects": [
+            "Civil Engineering",
+            "Business",
+            "Electrical Engineering",
+            "New Media Art",
+            "Sociology",
+            "Physics",
+            "English",
+            "Finance",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Hafeeza Bassirullah",
+        "subjects": [
+            "Information Technology",
+            "Communication",
+            "Accounting",
+            "Philosophy",
+            "Business Management",
+            "Law"
+        ]
+    },
+    {
+        "name": "Andy Ye",
+        "subjects": [
+            "Accounting",
+            "TV & Radio",
+            "Interdisciplinary Studies",
+            "Information Technology",
+            "Biology",
+            "Economics",
+            "Finance",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "B. Devika Chithrani",
+        "subjects": [
+            "Economics",
+            "History",
+            "Management",
+            "Business",
+            "Computer Science",
+            "Biology",
+            "Philosophy",
+            "Psychology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "David Checkland",
+        "subjects": [
+            "Mathematics",
+            "Law",
+            "English",
+            "Mechanical Engineering",
+            "Human Resources",
+            "Business",
+            "Philosophy",
+            "Geography",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Sathy Sritharakumar",
+        "subjects": [
+            "Economics",
+            "Criminal Justice",
+            "Quantitative Methods",
+            "Chemistry",
+            "Psychology",
+            "Geography",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Arthur Wrigglesworth",
+        "subjects": [
+            "Business",
+            "Management",
+            "Human Resources",
+            "Interior Design",
+            "Psychology",
+            "Information Technology",
+            "Philosophy",
+            "Law"
+        ]
+    },
+    {
+        "name": "Golam Rabbani",
+        "subjects": [
+            "Computer Science",
+            "Psychology",
+            "Chemistry",
+            "Geography",
+            "Finance",
+            "Management",
+            "Information Technology",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "(Jahangir) Jahan Tavakkoli",
+        "subjects": [
+            "New Media Art",
+            "English",
+            "Information Technology",
+            "Human Resources",
+            "Computer Science",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Cynthia Holmes",
+        "subjects": [
+            "Philosophy",
+            "Accounting",
+            "Sociology",
+            "Mathematics",
+            "Geography",
+            "Law"
+        ]
+    },
+    {
+        "name": "Khalil Abuosba",
+        "subjects": [
+            "Information Technology",
+            "Economics",
+            "Physics",
+            "Ethnic Studies",
+            "Criminal Justice",
+            "Marketing",
+            "Hospitality",
+            "Chemistry",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Rashid Khan",
+        "subjects": [
+            "Business",
+            "Philosophy",
+            "Mathematics",
+            "Accounting",
+            "Geography",
+            "Communication",
+            "Information Technology",
+            "Management"
+        ]
+    },
+    {
+        "name": "Patricia Hania",
+        "subjects": [
+            "Mechanical Engineering",
+            "Philosophy",
+            "Physics",
+            "Information Technology",
+            "Sociology",
+            "Accounting",
+            "Finance",
+            "Psychology",
+            "English"
+        ]
+    },
+    {
+        "name": "John Laugesen",
+        "subjects": [
+            "Chemistry",
+            "Psychology",
+            "Retail",
+            "Business Management",
+            "Business",
+            "Electrical Engineering",
+            "English",
+            "Physics",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Tobin Haley",
+        "subjects": [
+            "Interior Design",
+            "Philosophy",
+            "Criminal Justice",
+            "Geography",
+            "Biology",
+            "Information Technology",
+            "Marketing",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Glenn Parsons",
+        "subjects": [
+            "Geography",
+            "Information Technology",
+            "Biology",
+            "Accounting",
+            "Finance",
+            "Computer Science",
+            "Management",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Karl Szpunar",
+        "subjects": [
+            "Marketing",
+            "Human Resources",
+            "Business",
+            "History",
+            "Information Technology",
+            "English"
+        ]
+    },
+    {
+        "name": "Ravi Vatrapu",
+        "subjects": [
+            "Computer Science",
+            "Geography",
+            "Communication",
+            "Criminal Justice",
+            "Mathematics",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Alex Arifuzzaman",
+        "subjects": [
+            "Mathematics",
+            "Marketing",
+            "TV & Radio",
+            "Computer Science",
+            "Ethnic Studies",
+            "Economics"
+        ]
+    },
+    {
+        "name": "Albert Ciorma",
+        "subjects": [
+            "Psychology",
+            "Geography",
+            "History",
+            "English",
+            "Mathematics",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Corinne Hart",
+        "subjects": [
+            "Retail Management",
+            "Accounting",
+            "Law",
+            "Finance",
+            "Information Technology",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Nina-Marie Lister",
+        "subjects": [
+            "Finance",
+            "Electrical Engineering",
+            "Criminal Justice",
+            "Computer Science",
+            "Business Management",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Michelle Dionne",
+        "subjects": [
+            "Music",
+            "Information Technology",
+            "Management",
+            "Psychology",
+            "Geography",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Maanit Zemel",
+        "subjects": [
+            "Management",
+            "Geography",
+            "Psychology",
+            "Accounting",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Maria Arts",
+        "subjects": [
+            "Electrical Engineering",
+            "Business",
+            "Computer Science",
+            "Information Technology",
+            "Marketing",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Peter Ryan",
+        "subjects": [
+            "Accounting",
+            "Communication",
+            "Philosophy",
+            "Mathematics",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Daniel Rubenson",
+        "subjects": [
+            "Interdisciplinary Studies",
+            "TV & Radio",
+            "Hospitality",
+            "Ethnic Studies",
+            "Mathematics",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Andrew O'Malley",
+        "subjects": [
+            "Management",
+            "History",
+            "Communication",
+            "Mathematics",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "John Girardo",
+        "subjects": [
+            "English",
+            "Law",
+            "Finance",
+            "Information Technology",
+            "Retail Management",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Micheline Laforme",
+        "subjects": [
+            "Quantitative Methods",
+            "Criminal Justice",
+            "English",
+            "Business Management",
+            "Finance",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Amar Anwar",
+        "subjects": [
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Geography",
+            "Music",
+            "Law"
+        ]
+    },
+    {
+        "name": "Jennifer Poole",
+        "subjects": [
+            "Chemistry",
+            "Psychology",
+            "Computer Science",
+            "Accounting",
+            "Management",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Giulio Iacobelli",
+        "subjects": [
+            "Human Resources",
+            "Graphic Arts",
+            "Information Technology",
+            "New Media Art",
+            "Marketing",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Andrew Millward",
+        "subjects": [
+            "Sociology",
+            "Marketing",
+            "Mathematics",
+            "Philosophy",
+            "Computer Science",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Bobby Ma",
+        "subjects": [
+            "Criminal Justice",
+            "Information Technology",
+            "Ethnic Studies",
+            "Mathematics",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Hua Lu",
+        "subjects": [
+            "Accounting",
+            "Biology",
+            "Mathematics",
+            "Business",
+            "Psychology",
+            "Management"
+        ]
+    },
+    {
+        "name": "Kiaras Gharabaghi",
+        "subjects": [
+            "Sociology",
+            "Law",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Retail Management",
+            "English"
+        ]
+    },
+    {
+        "name": "Fei Song",
+        "subjects": [
+            "Business",
+            "Information Technology",
+            "Business Management",
+            "Chemistry",
+            "Finance",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Lahoma Thomas",
+        "subjects": [
+            "Biology",
+            "Economics",
+            "Geography",
+            "Interior Design",
+            "Music",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Henry Parada",
+        "subjects": [
+            "Finance",
+            "Mathematics",
+            "Accounting",
+            "Geography",
+            "Management",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Noah Schwartz",
+        "subjects": [
+            "Sociology",
+            "Finance",
+            "Criminal Justice",
+            "Marketing",
+            "English",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Maliha Chishti",
+        "subjects": [
+            "Business Management",
+            "Accounting",
+            "Business",
+            "Computer Science",
+            "Law"
+        ]
+    },
+    {
+        "name": "Miriam Martel",
+        "subjects": [
+            "Information Technology",
+            "Finance",
+            "Mathematics",
+            "Economics",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Kyle Rae",
+        "subjects": [
+            "Computer Science",
+            "Psychology",
+            "Physics",
+            "Philosophy",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "George Kapelos",
+        "subjects": [
+            "Human Resources",
+            "Geography",
+            "Business",
+            "Retail Management",
+            "Philosophy",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Beth Hamilton",
+        "subjects": [
+            "Psychology",
+            "Geography",
+            "Accounting",
+            "Finance",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Edward Charow",
+        "subjects": [
+            "Psychology",
+            "Law",
+            "Chemistry",
+            "Music",
+            "Philosophy",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Amir Gandomi",
+        "subjects": [
+            "Finance",
+            "Marketing",
+            "Business",
+            "Management",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Fei Yuan",
+        "subjects": [
+            "Computer Science",
+            "Human Resources",
+            "Information Technology",
+            "Electrical Engineering",
+            "History"
+        ]
+    },
+    {
+        "name": "Jason Chung",
+        "subjects": [
+            "Philosophy",
+            "Sociology",
+            "Law",
+            "Accounting",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Rob Cribb",
+        "subjects": [
+            "Hospitality",
+            "Criminal Justice",
+            "Chemistry",
+            "Interdisciplinary Studies",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Jean Wills",
+        "subjects": [
+            "Communication",
+            "Accounting",
+            "Information Technology",
+            "Management",
+            "English"
+        ]
+    },
+    {
+        "name": "Kenn Scott",
+        "subjects": [
+            "Finance",
+            "Sociology",
+            "Psychology",
+            "English"
+        ]
+    },
+    {
+        "name": "Nidhi Menon",
+        "subjects": [
+            "English",
+            "Business",
+            "Physics",
+            "Quantitative Methods",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Taryn Grieder",
+        "subjects": [
+            "Marketing",
+            "Biology",
+            "Information Technology",
+            "Human Resources",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Ann Murnaghan",
+        "subjects": [
+            "Computer Science",
+            "Finance",
+            "Management",
+            "Chemistry",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Silvana Ilie",
+        "subjects": [
+            "Marketing",
+            "Human Resources",
+            "Information Technology",
+            "History"
+        ]
+    },
+    {
+        "name": "Heidi Francis",
+        "subjects": [
+            "Computer Science",
+            "Sociology",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Marvyn Novick",
+        "subjects": [
+            "Mathematics",
+            "Criminal Justice",
+            "Physics",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Andie Noack",
+        "subjects": [
+            "Psychology",
+            "Accounting",
+            "Mathematics",
+            "English"
+        ]
+    },
+    {
+        "name": "Manuel Cuenca",
+        "subjects": [
+            "Retail Management",
+            "Sociology",
+            "Physics",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Sue Edwards",
+        "subjects": [
+            "Finance",
+            "Business",
+            "Retail",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Jill Dempsey",
+        "subjects": [
+            "Music",
+            "Biology",
+            "Criminal Justice",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Janice Kuo",
+        "subjects": [
+            "Management",
+            "Finance",
+            "Biology",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Haomiao Yu",
+        "subjects": [
+            "Physics",
+            "Human Resources",
+            "Sociology",
+            "Civil Engineering",
+            "Computer Science",
+            "Graphic Arts",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Colin Phillips",
+        "subjects": [
+            "Accounting",
+            "Sociology",
+            "Business Management",
+            "Information Technology",
+            "Philosophy",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Rob Goodman",
+        "subjects": [
+            "Biology",
+            "Criminal Justice",
+            "Information Technology",
+            "Accounting",
+            "Hospitality",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Bala Venkatesh",
+        "subjects": [
+            "Biology",
+            "Accounting",
+            "Computer Science",
+            "Economics",
+            "Communication",
+            "Management"
+        ]
+    },
+    {
+        "name": "Adam Miller",
+        "subjects": [
+            "Business",
+            "Sociology",
+            "Human Resources",
+            "Mathematics",
+            "Finance",
+            "Law",
+            "English"
+        ]
+    },
+    {
+        "name": "Shahryar Rafiei",
+        "subjects": [
+            "Psychology",
+            "Business",
+            "Economics",
+            "English",
+            "Information Technology",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Shawn McFadden",
+        "subjects": [
+            "Information Technology",
+            "Biology",
+            "Psychology",
+            "Business",
+            "Marketing",
+            "Economics",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Peter Monkhouse",
+        "subjects": [
+            "Management",
+            "Finance",
+            "Computer Science",
+            "Mathematics",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Xiao-Ping Zhang",
+        "subjects": [
+            "Electrical Engineering",
+            "History",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Cheryl McConney-Wilson",
+        "subjects": [
+            "Accounting",
+            "Criminal Justice",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Dawn Onishenko",
+        "subjects": [
+            "Interdisciplinary Studies",
+            "Computer Science",
+            "Hospitality"
+        ]
+    },
+    {
+        "name": "Eric Chi",
+        "subjects": [
+            "Management",
+            "English",
+            "Communication"
+        ]
+    },
+    {
+        "name": "Robert Clapperton",
+        "subjects": [
+            "English",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Faye Fraser",
+        "subjects": [
+            "Quantitative Methods",
+            "Computer Science",
+            "English"
+        ]
+    },
+    {
+        "name": "Ron Pushchak",
+        "subjects": [
+            "Human Resources",
+            "Psychology",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Jean Mason",
+        "subjects": [
+            "Chemistry",
+            "Psychology",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Nazanin Shahdi",
+        "subjects": [
+            "English",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Jacob Loree",
+        "subjects": [
+            "Accounting",
+            "Business"
+        ]
+    },
+    {
+        "name": "Wayne Pittendreigh",
+        "subjects": [
+            "Economics",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Ann Brokenshire",
+        "subjects": [
+            "Philosophy",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Pamela Robinson",
+        "subjects": [
+            "Philosophy",
+            "Business"
+        ]
+    },
+    {
+        "name": "Valerie Glasgow",
+        "subjects": [
+            "Psychology",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "June Komisar",
+        "subjects": [
+            "Philosophy",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Junlian Xiang",
+        "subjects": [
+            "Information Technology",
+            "Business"
+        ]
+    },
+    {
+        "name": "Silvia Olguin",
+        "subjects": [
+            "Computer Science",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Mohammadreza Arani",
+        "subjects": [
+            "Philosophy",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Kateryna Metersky",
+        "subjects": [
+            "Hospitality",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Gordon Pon",
+        "subjects": [
+            "Communication",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Robert Milling",
+        "subjects": [
+            "Finance",
+            "Business"
+        ]
+    },
+    {
+        "name": "Thomas Lee",
+        "subjects": [
+            "English",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Faris Abu-Kwiek",
+        "subjects": [
+            "Marketing",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Terry Rosewell",
+        "subjects": [
+            "Computer Science",
+            "Management"
+        ]
+    },
+    {
+        "name": "Farid Shirazi",
+        "subjects": [
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Dzung Minh Ha",
+        "subjects": [
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Terry Roswell",
+        "subjects": [
+            "Ethnic Studies"
+        ]
+    },
+    {
+        "name": "Chul Kim",
+        "subjects": [
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Youcef Derbal",
+        "subjects": [
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Jason (Chin-Tiong) Chan",
+        "subjects": [
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Jeanne Maurer",
+        "subjects": [
+            "Geography"
+        ]
+    },
+    {
+        "name": "Anthony Chan",
+        "subjects": [
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Dave Valliere",
+        "subjects": [
+            "Human Resources",
+            "Business",
+            "Sociology",
+            "Civil Engineering",
+            "Information Technology",
+            "History",
+            "English",
+            "Finance",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Michael Dick",
+        "subjects": [
+            "Sociology",
+            "Communication",
+            "Business Management",
+            "Information Technology",
+            "Law",
+            "Mathematics",
+            "Criminal Justice",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Dana Lee",
+        "subjects": [
+            "Criminal Justice",
+            "TV & Radio",
+            "Information Technology",
+            "Accounting",
+            "Chemistry",
+            "Ethnic Studies",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Thomas Barcsay",
+        "subjects": [
+            "Accounting",
+            "History",
+            "Computer Science",
+            "Economics",
+            "Information Technology",
+            "Mathematics",
+            "English",
+            "Philosophy",
+            "Psychology",
+            "Management"
+        ]
+    },
+    {
+        "name": "Bryant Greenbaum",
+        "subjects": [
+            "Sociology",
+            "Law",
+            "Human Resources",
+            "Mathematics",
+            "Psychology",
+            "Information Technology",
+            "Finance",
+            "Philosophy",
+            "Geography",
+            "English"
+        ]
+    },
+    {
+        "name": "Jane B. Sprott",
+        "subjects": [
+            "Business",
+            "Criminal Justice",
+            "Psychology",
+            "Economics",
+            "Physics",
+            "Business Management",
+            "Computer Science",
+            "Geography",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Hossein Zolfagharinia",
+        "subjects": [
+            "Biology",
+            "Management",
+            "Psychology",
+            "Business",
+            "Information Technology",
+            "Geography",
+            "Philosophy",
+            "Law",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Jessica Jeong",
+        "subjects": [
+            "Finance",
+            "Psychology",
+            "Computer Science",
+            "Management",
+            "Accounting",
+            "Information Technology",
+            "Marketing",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Iryna Manzhos",
+        "subjects": [
+            "History",
+            "English",
+            "Mathematics",
+            "New Media Art",
+            "Sociology",
+            "Electrical Engineering",
+            "Finance",
+            "Human Resources",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Mohammad Manshouri",
+        "subjects": [
+            "Criminal Justice",
+            "Accounting",
+            "Environmental Studies",
+            "Philosophy",
+            "Business Management",
+            "Sociology",
+            "Law",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Mehdi Shajari",
+        "subjects": [
+            "Computer Science",
+            "Economics",
+            "Information Technology",
+            "Interdisciplinary Studies",
+            "Finance",
+            "Criminal Justice",
+            "Chemistry",
+            "Ethnic Studies"
+        ]
+    },
+    {
+        "name": "David Laverty",
+        "subjects": [
+            "English",
+            "Philosophy",
+            "Business",
+            "Computer Science",
+            "Management",
+            "Psychology",
+            "Accounting",
+            "Information Technology",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Surinder Jassar",
+        "subjects": [
+            "Finance",
+            "Philosophy",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Human Resources",
+            "English",
+            "Geography",
+            "Sociology",
+            "Psychology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Marcia Maguire",
+        "subjects": [
+            "Computer Science",
+            "Psychology",
+            "Health & Safety",
+            "Chemistry",
+            "Quantitative Methods",
+            "Geography",
+            "Business",
+            "Physics",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Steve Joyce",
+        "subjects": [
+            "Psychology",
+            "Philosophy",
+            "Finance",
+            "Interior Design",
+            "Human Resources",
+            "Law",
+            "Biology",
+            "Information Technology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "George Ellinidis",
+        "subjects": [
+            "Psychology",
+            "Information Technology",
+            "Law",
+            "Geography",
+            "Finance",
+            "Chemistry",
+            "Marketing",
+            "Management",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Natalia Bezmaternykh",
+        "subjects": [
+            "Information Technology",
+            "Economics",
+            "History",
+            "Criminal Justice",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Janice Rudkowski",
+        "subjects": [
+            "Mathematics",
+            "Economics",
+            "Criminal Justice",
+            "Business",
+            "Law",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Joseph Aversa",
+        "subjects": [
+            "Ethnic Studies",
+            "Computer Science",
+            "Mathematics",
+            "Chemistry",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Frank Prychidny",
+        "subjects": [
+            "Mathematics",
+            "Law",
+            "English",
+            "Physics",
+            "Information Technology",
+            "Management"
+        ]
+    },
+    {
+        "name": "Falou Omar",
+        "subjects": [
+            "Information Technology",
+            "Public Health",
+            "Finance",
+            "Business",
+            "Psychology",
+            "English"
+        ]
+    },
+    {
+        "name": "Mike Burke",
+        "subjects": [
+            "Business Management",
+            "Psychology",
+            "Computer Science",
+            "Accounting",
+            "Physics",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Ava Cross",
+        "subjects": [
+            "Geography",
+            "TV & Radio",
+            "Psychology",
+            "Chemistry",
+            "Information Technology",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Eric DeGiuli",
+        "subjects": [
+            "Accounting",
+            "Marketing",
+            "Psychology",
+            "Business",
+            "Management",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Kathryn Newton",
+        "subjects": [
+            "Business",
+            "Electrical Engineering",
+            "Sociology",
+            "Physics",
+            "English",
+            "History",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Jennifer Fraser",
+        "subjects": [
+            "Communication",
+            "Accounting",
+            "Business Management",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Christos Shiamptanis",
+        "subjects": [
+            "TV & Radio",
+            "Interdisciplinary Studies",
+            "Information Technology",
+            "Biology",
+            "Economics",
+            "Computer Science",
+            "Finance"
+        ]
+    },
+    {
+        "name": "Tooraj Yousefi",
+        "subjects": [
+            "History",
+            "Management",
+            "Computer Science",
+            "Biology",
+            "Philosophy",
+            "English",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Bouchaib Bahli",
+        "subjects": [
+            "Law",
+            "English",
+            "Human Resources",
+            "Business",
+            "Philosophy",
+            "Finance",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Joseph McPhee",
+        "subjects": [
+            "Criminal Justice",
+            "Quantitative Methods",
+            "Psychology",
+            "Computer Science",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Ali Lohi",
+        "subjects": [
+            "Management",
+            "Human Resources",
+            "Psychology",
+            "Information Technology",
+            "Philosophy",
+            "Law"
+        ]
+    },
+    {
+        "name": "Scott Clark",
+        "subjects": [
+            "Psychology",
+            "Chemistry",
+            "Finance",
+            "Management",
+            "Information Technology",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Jessica Field",
+        "subjects": [
+            "Information Technology",
+            "Human Resources",
+            "Economics",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Michelle Bloom",
+        "subjects": [
+            "Mathematics",
+            "Sociology",
+            "Law",
+            "Economics",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Deirdre Fitzpatrick",
+        "subjects": [
+            "Ethnic Studies",
+            "Criminal Justice",
+            "Chemistry",
+            "Computer Science",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Cungang Yang",
+        "subjects": [
+            "Mathematics",
+            "Accounting",
+            "Information Technology",
+            "Law",
+            "Management"
+        ]
+    },
+    {
+        "name": "Arlene Dougal",
+        "subjects": [
+            "Information Technology",
+            "Sociology",
+            "Psychology",
+            "Public Health",
+            "English"
+        ]
+    },
+    {
+        "name": "Salim Rezvani",
+        "subjects": [
+            "Business Management",
+            "Business",
+            "Physics",
+            "Psychology",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Cathy Ning",
+        "subjects": [
+            "Geography",
+            "Biology",
+            "Information Technology",
+            "TV & Radio",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Guy Man",
+        "subjects": [
+            "Accounting",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Marshia Akbar",
+        "subjects": [
+            "Civil Engineering",
+            "New Media Art",
+            "Marketing",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Alexey Rubtsov",
+        "subjects": [
+            "Information Technology",
+            "Philosophy",
+            "Computer Science",
+            "Business"
+        ]
+    },
+    {
+        "name": "Saman Amin",
+        "subjects": [
+            "Accounting",
+            "Information Technology",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Kileen Tucker-Scott",
+        "subjects": [
+            "Economics",
+            "Business",
+            "Psychology",
+            "Physics"
+        ]
+    },
+    {
+        "name": "David Stamos",
+        "subjects": [
+            "Mathematics",
+            "Mechanical Engineering",
+            "Retail Management",
+            "Business"
+        ]
+    },
+    {
+        "name": "Peter Rambert",
+        "subjects": [
+            "Economics",
+            "Chemistry",
+            "Finance",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Helene Moore",
+        "subjects": [
+            "Business",
+            "Interior Design",
+            "Music",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Anne-Marie Brinsmead",
+        "subjects": [
+            "Computer Science",
+            "Geography",
+            "Management",
+            "Business"
+        ]
+    },
+    {
+        "name": "Abbas Keramati",
+        "subjects": [
+            "Electrical Engineering",
+            "Information Technology",
+            "English",
+            "Finance",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Patrizia Albanese",
+        "subjects": [
+            "Accounting",
+            "Sociology",
+            "Law",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Juliana Carvalho",
+        "subjects": [
+            "Interdisciplinary Studies",
+            "Physics",
+            "Economics",
+            "Finance",
+            "Chemistry",
+            "Criminal Justice",
+            "Ethnic Studies"
+        ]
+    },
+    {
+        "name": "Garnet Ord",
+        "subjects": [
+            "Management",
+            "Mathematics",
+            "Philosophy",
+            "Psychology",
+            "Information Technology",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Tetyana Antimirova",
+        "subjects": [
+            "English",
+            "Physics",
+            "Philosophy",
+            "Geography",
+            "Psychology",
+            "Sociology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Brent Barr",
+        "subjects": [
+            "Quantitative Methods",
+            "Retail",
+            "Psychology",
+            "Geography",
+            "Physics",
+            "Business",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Sara Thompson",
+        "subjects": [
+            "Human Resources",
+            "Criminal Justice",
+            "Philosophy",
+            "Law",
+            "Information Technology",
+            "Biology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Costin Antonescu",
+        "subjects": [
+            "Chemistry",
+            "Biology",
+            "Information Technology",
+            "Marketing",
+            "Management",
+            "Finance",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Emilia Barbu",
+        "subjects": [
+            "Economics",
+            "Human Resources",
+            "Electrical Engineering",
+            "New Media Art",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Doreen Fumia",
+        "subjects": [
+            "Economics",
+            "Sociology",
+            "Accounting",
+            "Philosophy",
+            "Law",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Margaret Moulson",
+        "subjects": [
+            "Computer Science",
+            "Criminal Justice",
+            "Interdisciplinary Studies",
+            "Information Technology",
+            "Chemistry",
+            "Ethnic Studies"
+        ]
+    },
+    {
+        "name": "Peter Wronski",
+        "subjects": [
+            "Law",
+            "Accounting",
+            "Management",
+            "Business",
+            "Information Technology",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Christopher Gibbs",
+        "subjects": [
+            "Public Health",
+            "Sociology",
+            "English",
+            "Mechanical Engineering",
+            "Psychology",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Margaret Plaza",
+        "subjects": [
+            "Psychology",
+            "Business",
+            "Quantitative Methods",
+            "Chemistry",
+            "Physics",
+            "Business Management"
+        ]
+    },
+    {
+        "name": "Dana Osborne",
+        "subjects": [
+            "TV & Radio",
+            "Biology",
+            "Human Resources",
+            "Interior Design",
+            "Information Technology",
+            "Geography"
+        ]
+    },
+    {
+        "name": "Richard Budny",
+        "subjects": [
+            "Marketing",
+            "Finance",
+            "Chemistry",
+            "Geography",
+            "Management",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Cintia Cristia",
+        "subjects": [
+            "Criminal Justice",
+            "Civil Engineering",
+            "Physics",
+            "Computer Science",
+            "Graphic Arts",
+            "Finance",
+            "Information Technology",
+            "Electrical Engineering",
+            "English",
+            "History"
+        ]
+    },
+    {
+        "name": "Vappu Tyyska",
+        "subjects": [
+            "Business",
+            "Information Technology",
+            "Accounting",
+            "Philosophy",
+            "Marketing",
+            "Law",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Kathryn Woodcock",
+        "subjects": [
+            "Mathematics",
+            "Accounting",
+            "Biology",
+            "Hospitality",
+            "Information Technology",
+            "Finance",
+            "Chemistry",
+            "Interdisciplinary Studies",
+            "Economics",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Farokh Sharifi",
+        "subjects": [
+            "Physics",
+            "Economics",
+            "Biology",
+            "Communication",
+            "Psychology",
+            "Information Technology",
+            "Management",
+            "Philosophy",
+            "English"
+        ]
+    },
+    {
+        "name": "Yaser Dahman",
+        "subjects": [
+            "Business",
+            "Mathematics",
+            "Finance",
+            "Law",
+            "Geography",
+            "Psychology",
+            "English",
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Irene Gammel",
+        "subjects": [
+            "Accounting",
+            "Economics",
+            "Psychology",
+            "English",
+            "Information Technology",
+            "Geography",
+            "Physics",
+            "Quantitative Methods",
+            "Computer Science"
+        ]
+    },
+    {
+        "name": "Fathima Saleem",
+        "subjects": [
+            "Chemistry",
+            "Business",
+            "Information Technology",
+            "Marketing",
+            "Economics",
+            "Law",
+            "Human Resources",
+            "Philosophy",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Laurie Clune",
+        "subjects": [
+            "Business",
+            "Computer Science",
+            "Management",
+            "Mathematics",
+            "Marketing",
+            "Chemistry",
+            "Information Technology",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Conely de Leon",
+        "subjects": [
+            "Civil Engineering",
+            "Human Resources",
+            "Computer Science",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Sarah Sabatinos",
+        "subjects": [
+            "Information Technology",
+            "Geography",
+            "Philosophy",
+            "Sociology",
+            "Law"
+        ]
+    },
+    {
+        "name": "Andy Mok",
+        "subjects": [
+            "Accounting",
+            "Marketing",
+            "Hospitality",
+            "Criminal Justice",
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Mark Viminitz",
+        "subjects": [
+            "Economics",
+            "Geography",
+            "Communication",
+            "Accounting",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Mark Feigenbaum",
+        "subjects": [
+            "Mathematics",
+            "Accounting",
+            "Finance",
+            "Sociology",
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Lawrence Altrows",
+        "subjects": [
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Business",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Patricia Comley",
+        "subjects": [
+            "Business",
+            "Information Technology",
+            "Marketing",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Caterina Valentino",
+        "subjects": [
+            "Computer Science",
+            "Geography",
+            "Finance",
+            "Management"
+        ]
+    },
+    {
+        "name": "Nursel Ruzgar",
+        "subjects": [
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Crestina Beites",
+        "subjects": [
+            "Sociology"
+        ]
+    },
+    {
+        "name": "Oliver Okafor",
+        "subjects": [
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Jennifer Lapum",
+        "subjects": [
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Idil Atak",
+        "subjects": [
+            "Sociology"
+        ]
+    },
+    {
+        "name": "Mal Atay",
+        "subjects": [
+            "Business"
+        ]
+    },
+    {
+        "name": "Irene Jordan",
+        "subjects": [
+            "Biology"
+        ]
+    },
+    {
+        "name": "Benjamin Dyson",
+        "subjects": [
+            "Finance"
+        ]
+    },
+    {
+        "name": "Puren Ouyang",
+        "subjects": [
+            "Physics",
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Lee Henderson",
+        "subjects": [
+            "Accounting",
+            "Sociology"
+        ]
+    },
+    {
+        "name": "You Liang",
+        "subjects": [
+            "Biology",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Lorrisa Dilay",
+        "subjects": [
+            "Biology",
+            "Mathematics"
+        ]
+    },
+    {
+        "name": "Ira Levine",
+        "subjects": [
+            "Business",
+            "Physics"
+        ]
+    },
+    {
+        "name": "Kevin MacLean",
+        "subjects": [
+            "Psychology",
+            "Retail"
+        ]
+    },
+    {
+        "name": "Janet Balfour",
+        "subjects": [
+            "Information Technology",
+            "Criminal Justice"
+        ]
+    },
+    {
+        "name": "Jonghun Park",
+        "subjects": [
+            "Management",
+            "Biology"
+        ]
+    },
+    {
+        "name": "Joshua Williams",
+        "subjects": [
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "David Hart",
+        "subjects": [
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Aziz Memon",
+        "subjects": [
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "James Warrack",
+        "subjects": [
+            "Management"
+        ]
+    },
+    {
+        "name": "Shai Yeshayahu",
+        "subjects": [
+            "English"
+        ]
+    },
+    {
+        "name": "Chris Jackson",
+        "subjects": [
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Hla Wynn",
+        "subjects": [
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Sadaf Mustafiz",
+        "subjects": [
+            "Chemistry"
+        ]
+    },
+    {
+        "name": "Anne McNeilly",
+        "subjects": [
+            "English"
+        ]
+    },
+    {
+        "name": "David Harris",
+        "subjects": [
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Marcia Moshe",
+        "subjects": [
+            "Economics"
+        ]
+    },
+    {
+        "name": "Anne Spice",
+        "subjects": [
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Thomas Blanchard",
+        "subjects": [
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Lori Schindel Martin",
+        "subjects": [
+            "Psychology"
+        ]
+    },
+    {
+        "name": "Sue Barnwell",
+        "subjects": [
+            "Philosophy"
+        ]
+    },
+    {
+        "name": "Alireza Pourali",
+        "subjects": [
+            "Information Technology"
+        ]
+    },
+    {
+        "name": "Franklyn Prescod",
+        "subjects": [
+            "Information Technology",
+            "Electrical Engineering"
+        ]
+    },
+    {
+        "name": "Peter Wilson",
+        "subjects": [
+            "Law",
+            "Mathematics",
+            "Accounting"
+        ]
+    },
+    {
+        "name": "Noel George",
+        "subjects": [
+            "Chemistry",
+            "Ethnic Studies",
+            "Interdisciplinary Studies"
+        ]
+    },
+    {
+        "name": "Carole Chauncey",
+        "subjects": [
+            "Information Technology",
+            "Mathematics",
+            "Management"
+        ]
+    },
+    {
+        "name": "Tara M Burke",
+        "subjects": [
+            "Psychology",
+            "Information Technology",
+            "English"
+        ]
+    },
+    {
+        "name": "Vladislav Toronov",
+        "subjects": [
+            "Physics",
+            "Business Management",
+            "Quantitative Methods"
+        ]
+    },
+    {
+        "name": "Bharat Shah",
+        "subjects": [
+            "Information Technology",
+            "Geography",
+            "Human Resources"
+        ]
+    },
+    {
+        "name": "Kirk Bailey",
+        "subjects": [
+            "Management",
+            "Accounting",
+            "Chemistry"
+        ]
+    }
+]
