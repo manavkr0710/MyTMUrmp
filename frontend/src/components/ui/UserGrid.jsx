@@ -8,7 +8,7 @@ const UserGrid = ({users, setUsers}) => {
   useEffect(() => {
     const getUsers= async () => {
       try{
-        const res = await fetch('http://localhost:5000/api/reviews');
+        const res = await fetch('https://mytmurmp.onrender.com/api/reviews');
         const data = await res.json();
         
         if (!res.ok) {

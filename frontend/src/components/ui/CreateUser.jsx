@@ -46,7 +46,7 @@ const CreateUser = () => {
 
     setIsLoading(true);
     try {
-      const res = await fetch( 'http://localhost:5000/api/review', {
+      const res = await fetch( 'https://mytmurmp.onrender.com/api/review', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
