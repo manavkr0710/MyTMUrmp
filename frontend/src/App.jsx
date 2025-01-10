@@ -3,8 +3,7 @@ import Navbar from "./components/ui/Navbar";
 import UserGrid from "./components/ui/UserGrid";
 import { useState } from "react";
 
-export const BASE_URL = import.meta.env.MODE === "development" ? "http://localhost:5000" : "https://mytmurmp.onrender.com/";
-
+export const BASE_URL = import.meta.env.MODE === "development" ? "http://localhost:5000/api/" : "https://mytmurmp.onrender.com/";
 function App() {
   const [users, setUsers] = useState([]);
 
