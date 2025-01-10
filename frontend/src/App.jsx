@@ -3,8 +3,7 @@ import Navbar from "./components/ui/Navbar";
 import UserGrid from "./components/ui/UserGrid";
 import { useState } from "react";
 
-export const BASE_URL = "http://localhost:5000/api";
-
+export const BASE_URL = import.meta.env.MODE === "development" ? "http://127.0.0.1:5000/api" : "/api";
 function App() {
   const [users, setUsers] = useState([]);
 
