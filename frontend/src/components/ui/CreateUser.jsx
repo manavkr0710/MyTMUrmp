@@ -23,6 +23,7 @@ import {
   ProgressCircleRing,
   ProgressCircleRoot,
 } from "@/components/ui/progress-circle";
+import { BASE_URL } from "@/App";
 
 const CreateUser = () => {
   const [items, setItems] = useState([]);
@@ -46,7 +47,7 @@ const CreateUser = () => {
 
     setIsLoading(true);
     try {
-      const res = await fetch( 'https://mytmurmp.onrender.com/api/review', {
+      const res = await fetch(BASE_URL + 'api/review', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
