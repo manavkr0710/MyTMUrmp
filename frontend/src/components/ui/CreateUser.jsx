@@ -23,7 +23,6 @@ import {
   ProgressCircleRing,
   ProgressCircleRoot,
 } from "@/components/ui/progress-circle";
-import { BASE_URL } from "@/App";
 
 const CreateUser = () => {
   const [items, setItems] = useState([]);
