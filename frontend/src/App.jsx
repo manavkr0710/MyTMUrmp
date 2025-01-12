@@ -8,7 +8,7 @@ function App() {
   const [users, setUsers] = useState([]);
 
   return (
-    <Stack minH={"100vh"} bg="white">
+    <Stack minH={"100vh"} bg="white" justifyContent="space-between">
       <Navbar setUsers={setUsers} />
 
       <Container maxW={"1000px"} my={2} bgColor={"orange"} borderRadius={16} p={5}>
@@ -28,7 +28,17 @@ function App() {
         </Text>
 
         <UserGrid users={users} setUsers={setUsers} />
+        
       </Container>
+      <Text
+        fontSize="sm"
+        textAlign="center"
+        color="gray.500"
+        py={4}
+        mt="auto"
+      >
+        © {new Date().getFullYear()} All rights reserved.
+      </Text>
     </Stack>
   );
 }
