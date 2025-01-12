@@ -37,7 +37,7 @@ function App() {
         py={4}
         mt="auto"
       >
-        © {new Date().getFullYear()} All rights reserved.
+        © {new Date().getFullYear()} All rights reserved. 
       </Text>
     </Stack>
   );
