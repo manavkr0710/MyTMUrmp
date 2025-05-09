@@ -1,0 +1,95 @@
+2024-12-31 13:51:13,451 - INFO - Professors scraped: 16
+2024-12-31 13:51:13,454 - INFO - Time taken for this iteration: 5.94 seconds
+2024-12-31 13:51:24,403 - INFO - Professors scraped: 24
+2024-12-31 13:51:24,405 - INFO - Time taken for this iteration: 10.95 seconds
+2024-12-31 13:51:35,563 - INFO - Professors scraped: 32
+2024-12-31 13:51:35,590 - INFO - Memory cleared and unused DOM elements removed.
+2024-12-31 13:51:35,591 - INFO - Time taken for this iteration: 11.18 seconds
+2024-12-31 13:51:46,621 - INFO - Professors scraped: 40
+2024-12-31 13:51:46,623 - INFO - Time taken for this iteration: 11.03 seconds
+2024-12-31 13:51:58,621 - INFO - Professors scraped: 48
+2024-12-31 13:51:58,624 - INFO - Restarting browser to clear memory.
+2024-12-31 13:52:08,544 - WARNING - Failed to skip clicks: Message: element click intercepted: Element <button class="Buttons__Button-sc-19xdot-1 PaginationButton__StyledPaginationButton-txi1dr-1 glImpo" type="button">...</button> is not clickable at point (508, 538). Other element would receive the click: <div class="ReactModal__Overlay ReactModal__Overlay--after-open FullPageModal__StyledFullPageModal-sc-1tziext-1 fyxlwo__overlay">...</div>
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F0B5FB05+28789]
+	(No symbol) [0x00007FF7F0AC86E0]
+	(No symbol) [0x00007FF7F096592A]
+	(No symbol) [0x00007FF7F09C0FDE]
+	(No symbol) [0x00007FF7F09BEA7C]
+	(No symbol) [0x00007FF7F09BBC46]
+	(No symbol) [0x00007FF7F09BABA1]
+	(No symbol) [0x00007FF7F09ACD60]
+	(No symbol) [0x00007FF7F09DF43A]
+	(No symbol) [0x00007FF7F09AC5B6]
+	(No symbol) [0x00007FF7F09DF650]
+	(No symbol) [0x00007FF7F09FF654]
+	(No symbol) [0x00007FF7F09DF1E3]
+	(No symbol) [0x00007FF7F09AA938]
+	(No symbol) [0x00007FF7F09ABAA1]
+	GetHandleVerifier [0x00007FF7F0E9933D+3410093]
+	GetHandleVerifier [0x00007FF7F0EAE7DD+3497293]
+	GetHandleVerifier [0x00007FF7F0EA2A73+3448803]
+	GetHandleVerifier [0x00007FF7F0C27BBB+848171]
+	(No symbol) [0x00007FF7F0AD3C3F]
+	(No symbol) [0x00007FF7F0ACF6E4]
+	(No symbol) [0x00007FF7F0ACF87D]
+	(No symbol) [0x00007FF7F0ABED49]
+	BaseThreadInitThunk [0x00007FF90FA77374+20]
+	RtlUserThreadStart [0x00007FF91049CC91+33]
+
+2024-12-31 13:52:08,544 - INFO - Time taken for this iteration: 21.92 seconds
+2024-12-31 13:52:15,716 - INFO - Professors scraped: 48
+2024-12-31 13:52:19,852 - INFO - Memory cleared and unused DOM elements removed.
+2024-12-31 13:52:19,852 - INFO - Time taken for this iteration: 11.31 seconds
+2024-12-31 13:52:30,434 - INFO - Professors scraped: 48
+2024-12-31 13:52:30,436 - INFO - Time taken for this iteration: 10.58 seconds
+2024-12-31 13:52:41,296 - INFO - Professors scraped: 48
+2024-12-31 13:52:41,298 - INFO - Time taken for this iteration: 10.86 seconds
+2024-12-31 13:52:52,273 - INFO - Professors scraped: 48
+2024-12-31 13:52:52,289 - INFO - Memory cleared and unused DOM elements removed.
+2024-12-31 13:52:52,289 - INFO - Time taken for this iteration: 10.99 seconds
+2024-12-31 13:53:03,920 - INFO - Professors scraped: 48
+2024-12-31 13:53:03,923 - INFO - Restarting browser to clear memory.
+2024-12-31 13:53:13,460 - WARNING - Failed to skip clicks: Message: element click intercepted: Element <button class="Buttons__Button-sc-19xdot-1 PaginationButton__StyledPaginationButton-txi1dr-1 glImpo" type="button">...</button> is not clickable at point (508, 538). Other element would receive the click: <div class="ReactModal__Overlay ReactModal__Overlay--after-open FullPageModal__StyledFullPageModal-sc-1tziext-1 fyxlwo__overlay">...</div>
+  (Session info: chrome=131.0.6778.205)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F0B5FB05+28789]
+	(No symbol) [0x00007FF7F0AC86E0]
+	(No symbol) [0x00007FF7F096592A]
+	(No symbol) [0x00007FF7F09C0FDE]
+	(No symbol) [0x00007FF7F09BEA7C]
+	(No symbol) [0x00007FF7F09BBC46]
+	(No symbol) [0x00007FF7F09BABA1]
+	(No symbol) [0x00007FF7F09ACD60]
+	(No symbol) [0x00007FF7F09DF43A]
+	(No symbol) [0x00007FF7F09AC5B6]
+	(No symbol) [0x00007FF7F09DF650]
+	(No symbol) [0x00007FF7F09FF654]
+	(No symbol) [0x00007FF7F09DF1E3]
+	(No symbol) [0x00007FF7F09AA938]
+	(No symbol) [0x00007FF7F09ABAA1]
+	GetHandleVerifier [0x00007FF7F0E9933D+3410093]
+	GetHandleVerifier [0x00007FF7F0EAE7DD+3497293]
+	GetHandleVerifier [0x00007FF7F0EA2A73+3448803]
+	GetHandleVerifier [0x00007FF7F0C27BBB+848171]
+	(No symbol) [0x00007FF7F0AD3C3F]
+	(No symbol) [0x00007FF7F0ACF6E4]
+	(No symbol) [0x00007FF7F0ACF87D]
+	(No symbol) [0x00007FF7F0ABED49]
+	BaseThreadInitThunk [0x00007FF90FA77374+20]
+	RtlUserThreadStart [0x00007FF91049CC91+33]
+
+2024-12-31 13:53:13,460 - INFO - Time taken for this iteration: 21.17 seconds
+2024-12-31 13:53:19,232 - INFO - Professors scraped: 48
+2024-12-31 13:53:19,235 - INFO - Time taken for this iteration: 5.77 seconds
+2024-12-31 13:53:30,160 - INFO - Professors scraped: 48
+2024-12-31 13:53:32,363 - INFO - Memory cleared and unused DOM elements removed.
+2024-12-31 13:53:32,363 - INFO - Time taken for this iteration: 13.13 seconds
+2024-12-31 13:53:36,455 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E89DB27390>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3ee972da0cc08e1ced748ea515367540/element
+2024-12-31 13:53:40,546 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E89DB709D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3ee972da0cc08e1ced748ea515367540/element
+2024-12-31 13:53:44,623 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E89DB708A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3ee972da0cc08e1ced748ea515367540/element
+2024-12-31 13:53:52,796 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E89DBB05A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3ee972da0cc08e1ced748ea515367540/element
+2024-12-31 13:53:56,889 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E89DBB07C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3ee972da0cc08e1ced748ea515367540/element
+2024-12-31 13:54:00,989 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E89DBB0AF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3ee972da0cc08e1ced748ea515367540/element
+2024-12-31 13:54:05,072 - INFO - No more 'Show More' buttons or error occurred: HTTPConnectionPool(host='localhost', port=54753): Max retries exceeded with url: /session/3ee972da0cc08e1ced748ea515367540/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002E89DBB0E20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))

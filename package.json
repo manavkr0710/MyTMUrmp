@@ -1,0 +1,20 @@
+{
+  "name": "react-flask-project-1",
+  "version": "1.0.0",
+  "description": "![Screenshot 2025-01-10 180239](https://github.com/user-attachments/assets/09170c35-c1a2-4cc3-a739-905593c651cb)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manavkr0710/MyTMUrmp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manavkr0710/MyTMUrmp/issues"
+  },
+  "homepage": "https://github.com/manavkr0710/MyTMUrmp#readme"
+}
