@@ -3,7 +3,7 @@ import Navbar from "./components/ui/Navbar";
 import UserGrid from "./components/ui/UserGrid";
 import { useState } from "react";
 
-export const BASE_URL = "https://mytmurmp.onrender.com/";
+export const BASE_URL = "https://mytmurmp-0b5da00d391e.herokuapp.com/";
 function App() {
   const [users, setUsers] = useState([]);
 
