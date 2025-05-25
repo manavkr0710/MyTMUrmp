@@ -1,7 +1,7 @@
 ![Screenshot 2025-01-10 180239](https://github.com/user-attachments/assets/09170c35-c1a2-4cc3-a739-905593c651cb)
 
 
-## MyTMU RMP (MyTMU Rate My Prof) -> [https://mytmurmp.onrender.com/](https://mytmurmp-0b5da00d391e.herokuapp.com/)
+## MyTMU RMP (MyTMU Rate My Prof) -> [https://mytmurmp-0b5da00d391e.herokuapp.com/](My TMU RMP)
 ### About the Project
 - A web app that allows TMU students to create reviews, and read reviews that other TMU students might have left on other professors.
 - Deployed on Render for free
