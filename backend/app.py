@@ -4,7 +4,8 @@ from flask_cors import CORS
 import os
 
 app = Flask(__name__, static_folder='../frontend/dist', static_url_path='')
-CORS(app)
+# Configure CORS to allow requests from all origins and methods, particularly POST
+CORS(app, resources={r"/*": {"origins": "*", "methods": ["GET", "POST", "OPTIONS"]}})
 
 # Use PostgreSQL in production, SQLite in development
 if 'DATABASE_URL' in os.environ:
@@ -24,11 +25,13 @@ def index():
 def serve_static(path):
     return send_from_directory(app.static_folder, path)
 
-#mounted routes
-import routes 
-
+# Create tables first
 with app.app_context():
-    db.create_all() 
+    db.create_all()
+
+# Import routes AFTER db is initialized to avoid circular imports
+# This order is critical for Flask route registration
+import routes
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0')
