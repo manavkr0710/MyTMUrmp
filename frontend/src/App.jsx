@@ -3,10 +3,7 @@ import Navbar from "./components/ui/Navbar";
 import UserGrid from "./components/ui/UserGrid";
 import { useState } from "react";
 
-// Use environment variable or default to localhost for development
-export const BASE_URL = import.meta.env.PROD 
-  ? "https://my-tmu-rmp.vercel.app"
-  : "http://localhost:5000";
+export const BASE_URL = "https://my-tmu-rmp.vercel.app";
 function App() {
   const [users, setUsers] = useState([]);
 

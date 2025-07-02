@@ -14,7 +14,7 @@ const UserGrid = ({users, setUsers}) => {
     name: "Dr. Ali Miri",
     subject: "Computer Science",
     code: "CPS109",
-    description: "Dr. Smith is an excellent professor who explains complex concepts clearly and is always available during office hours. His assignments are challenging but fair, and his lectures are engaging and informative."
+    description: "Dr. Ali Miri is an excellent professor who explains complex concepts clearly and is always available during office hours. His assignments are challenging but fair, and his lectures are engaging and informative."
   };
   
   // Initialize with sample review immediately
